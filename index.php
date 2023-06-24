@@ -112,19 +112,16 @@
                     <p class="text-justify">
                         ShipTek International Conference & Awards KSA 2024 – MARINE/OFFSHORE/OIL&GAS will be a physical event aimed at key decision makers and high-level policymakers This two-day event will bring together industry leaders, organizations, suppliers and experts for networking and business tie-up opportunities.
                     </P>
-                    <p>
+                    <p class="text-justify">
                         Since its inception in 2008, this most popular name SHIPTEK in the maritime industry has traveled worldwide - Dubai, Singapore, Hongkong, Greece, Hamburg, India etc. making it one of the finest maritime events globally.<br>
                     </p>
-                    <p>
+                    <p class="text-justify">
                         This mega event will comprise the following integral segments:
                     </p>
                     <ul class="list-style-two">
                         <li>Two-days International Conference on Marine/Offshore/Oil&Gas </li>
                         <li>ShipTek International Awards KSA 2024</li>
                     </ul>
-
-
-
                 </div>
             </div>
         </div>
@@ -137,181 +134,55 @@
 <section class="speakers-section-two">
     <div class="anim-icons">
         <span class="icon icon-circle-4 wow zoomIn"></span>
-        <span class="icon icon-circle-3 wow zoomIn"></span>
+        <!-- <span class="icon icon-circle-3 wow zoomIn"></span> -->
     </div>
 
-    <div class="auto-container">
-        <div class="sec-title text-center">
+    <div class="container">
+        <div class="auto-container ">
+            <!-- <div class="sec-title text-center">
             <span class="title">Speakers</span>
             <h2>Todays Performers</h2>
-        </div>
+        </div> -->
 
-        <div class="row">
-
-            <!-- Speaker Block -->
-            <div class="speaker-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <div class="info-box">
-                        <h4 class="name"><a href="speakers-detail.html">Dale Marke</a></h4>
-                        <span class="designation">Event Manager</span>
-                    </div>
-                    <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="images/resource/speaker-1.jpg" alt=""></a></figure>
-                    </div>
-                    <div class="social-box">
-                        <ul class="social-links social-icon-colored">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                        </ul>
-                    </div>
+            <div style="background-color: white;" class="row ">
+                <div class="sec-title">
+                    <!-- <span class="title">About The Event</span> -->
+                    <h2 style="color: green;">SHIPTEK INTERNATIONAL CONFERENCE KSA - TOPICS 2024</h2>
                 </div>
-            </div>
-
-            <!-- Speaker Block -->
-            <div class="speaker-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <div class="info-box">
-                        <h4 class="name"><a href="speakers-detail.html">Natisha Decoux</a></h4>
-                        <span class="designation">Event Manager</span>
-                    </div>
-                    <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="images/resource/speaker-2.jpg" alt=""></a></figure>
-                    </div>
-                    <div class="social-box">
-                        <ul class="social-links social-icon-colored">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Speaker Block -->
-            <div class="speaker-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <div class="info-box">
-                        <h4 class="name"><a href="speakers-detail.html">Adolfo Plahs</a></h4>
-                        <span class="designation">Event Manager</span>
-                    </div>
-                    <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="images/resource/speaker-4.jpg" alt=""></a></figure>
-                    </div>
-                    <div class="social-box">
-                        <ul class="social-links social-icon-colored">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Speaker Block -->
-            <div class="speaker-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <div class="info-box">
-                        <h4 class="name"><a href="speakers-detail.html">Mitchell Hegg</a></h4>
-                        <span class="designation">Event Manager</span>
-                    </div>
-                    <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="images/resource/speaker-3.jpg" alt=""></a></figure>
-                    </div>
-                    <div class="social-box">
-                        <ul class="social-links social-icon-colored">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Speaker Block -->
-            <div class="speaker-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <div class="info-box">
-                        <h4 class="name"><a href="speakers-detail.html">Kenyetta Lesley</a></h4>
-                        <span class="designation">Event Manager</span>
-                    </div>
-                    <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="images/resource/speaker-5.jpg" alt=""></a></figure>
-                    </div>
-                    <div class="social-box">
-                        <ul class="social-links social-icon-colored">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Speaker Block -->
-            <div class="speaker-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <div class="info-box">
-                        <h4 class="name"><a href="speakers-detail.html">Shelly Verghese</a></h4>
-                        <span class="designation">Event Manager</span>
-                    </div>
-                    <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="images/resource/speaker-6.jpg" alt=""></a></figure>
-                    </div>
-                    <div class="social-box">
-                        <ul class="social-links social-icon-colored">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Speaker Block -->
-            <div class="speaker-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <div class="info-box">
-                        <h4 class="name"><a href="speakers-detail.html">Kenyetta Lesley</a></h4>
-                        <span class="designation">Event Manager</span>
-                    </div>
-                    <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="images/resource/speaker-7.jpg" alt=""></a></figure>
-                    </div>
-                    <div class="social-box">
-                        <ul class="social-links social-icon-colored">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Speaker Block -->
-            <div class="speaker-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <div class="info-box">
-                        <h4 class="name"><a href="speakers-detail.html">Shelly Verghese</a></h4>
-                        <span class="designation">Event Manager</span>
-                    </div>
-                    <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="images/resource/speaker-8.jpg" alt=""></a></figure>
-                    </div>
-                    <div class="social-box">
-                        <ul class="social-links social-icon-colored">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                            <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                        </ul>
+                <div class="text sec-title">
+                    <p class="text-justify">The conference topics cover a range of subjects related to the Marine, Offshore, Oil & Gas Industry including Technological Advancements, Environmental Considerations, Safety, Sustainability, and various operations. The presentations will aim to address Current Challenges, Share Knowledge and discuss future opportunities in the sector. </p>
+                    <p class="title">PRESENTATION TOPICS WILL COVER -</p>
+                    <div class="row">
+                        <div class="col-6">
+                            <ul class="list-style-two">
+                                <li>GREEN SHIPPING: DECARBONIZATION STRATEGIES AND TECHNOLOGIES</li>
+                                <li>DIGITALIZATION IN MARITIME OPERATIONS: FROM SMART PORTS TO BLOCKCHAIN</li>
+                                <li>ESG (ENVIRONMENTAL, SOCIAL, AND GOVERNANCE) IN OFFSHORE/ OIL & GAS</li>
+                                <li>MARINE ROBOTICS AND AUTONOMOUS SYSTEMS IN OFFSHORE APPLICATIONS</li>
+                                <li>ENERGY TRANSITION: THE ROLE OF OIL & GAS IN A LOW-CARBON FUTURE </li>
+                                <li>PORT INFRASTRUCTURE DEVELOPMENT:EXPANSION & MODERNIZATION PROJECTS</li>
+                                <li>CREW WELL-BEING: PROMOTING CREW WELFARE & MENTAL HEALTH </li>
+                                <li>ALTERNATIVE SHIP FUELS – CURRENT STATUS & OUTLOOK</li>
+                                <li>CLASSSIFICATION SOCIETY – RULES, REGULATIONS & RECOMMENDATIONS </li>
+                                <li>MARITIME REGULATIONS & GOALS - TODAY / 2030</li>
+                                <li>SUBSEA ENGINEERING AND INNOVATIONS IN DEEPWATER OPERATIONS</li>
+                            </ul>
+                        </div>
+                        <div class="col-6">
+                            <ul class="list-style-two">
+                                <li>MARINE AND OFFSHORE ENVIRONMENTAL MONITORING AND COMPLIANCE</li>
+                                <li>SUSTAINABLE ENERGY SOLUTIONS FOR THE OIL & GAS INDUSTRY</li>
+                                <li>ADVANCES IN OFFSHORE DRILLING TECHNIQUES AND EQUIPMENT</li>
+                                <li>FUTURE TRENDS IN SHIPBUILDING AND NAVAL ARCHITECTURE</li>
+                                <li>Maritime Safety and Risk Management: Lessons from Recent Incidents</li>
+                                <li>PORT AUTOMATION & OPTIMIZATION: ENHANCING EFFICIENCY & PERFORMANCE</li>
+                                <li>MARITIME LAW & REGULATIONS: NAVIGATING LEGAL CHALLENGES IN THE INDUSTRY</li>
+                                <li>SUSTAINABLE PRACTICES IN UPSTREAM, MIDSTREAM,DOWNSTREAM OPERATIONS</li>
+                                <li>LNG BUNKERING AND INFRASTRUCTURE FOR SUSTAINABLE MARINE TRANSPORTATION</li>
+                                <li>MARITIME TRAINING & WORKFORCE DEVELOPMENT: BRIDGING THE SKILLS GAP</li>
+                                <li>OFFSHORE WIND ENERGY: OPPORTUNITIES AND CHALLENGES</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
