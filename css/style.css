@@ -269,7 +269,7 @@ color:#ffffff;
 	color:#ffffff;
 	font-weight:400;
 	text-align:center;
-	background-color: #ec167f;
+	/* background-color: #ec167f; */
 	overflow: hidden;
 	border-radius: 10px;
 }
@@ -279,7 +279,8 @@ color:#ffffff;
 }
 
 .btn-style-one:hover{
-	color:#ec167f;
+	/* color:#ec167f; */
+	color:green;
 	-webkit-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-moz-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-ms-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
@@ -340,7 +341,8 @@ color:#ffffff;
 }
 
 .btn-style-two:hover{
-	color:#faaC1D;
+	/* color:#faaC1D; */
+	color:green;
 	-webkit-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-moz-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-ms-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
