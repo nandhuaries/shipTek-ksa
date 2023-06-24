@@ -3,7 +3,7 @@
      <div class="auto-container">
          <!-- Footer Content -->
          <div class="footer-content">
-             <div class="footer-logo"><a href="#"><img src="images/logo.png" alt=""></a></div>
+             <div class="footer-logo"><a href="#"><img src="our-images/logos/logo23" alt=""></a></div>
              <ul class="footer-nav">
                  <li><a href="#">Home</a></li>
                  <li><a href="#">About Us</a></li>
@@ -11,7 +11,7 @@
                  <li><a href="#">Projects</a></li>
                  <li><a href="#">Contact Us</a></li>
              </ul>
-             <div class="copyright-text">© Copyright 2019 All Rights Reserved by <a href="index.html">Expert-Themes</a></div>
+             <div class="copyright-text">© Copyright 2024 All Rights Reserved Developed By <span style="color: red";>❤</span> <a href="index.html">Aries e-Solutions </a></div>
              <ul class="social-icon-one">
                  <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
                  <li><a href="#"><span class="fab fa-twitter"></span></a></li>

@@ -31,7 +31,7 @@
     <div class="page-wrapper">
 
         <!-- Preloader -->
-        <div class="preloader"></div>
+        <!-- <div class="preloader"></div> -->
         <!-- Header span -->
 
         <!-- Header Span -->
@@ -108,7 +108,7 @@
                                             <li><a href="error-page.html">404 Error</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>
                         </nav>
