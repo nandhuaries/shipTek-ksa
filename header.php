@@ -42,7 +42,7 @@
             <div class="main-box">
                 <div class="auto-container clearfix">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="images/logo-2.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="our-images/logos/logo23" alt="" title=""></a></div>
                     </div>
 
                     <!--Nav Box-->
@@ -117,11 +117,11 @@
                         <!-- Outer box -->
                         <div class="outer-box">
                             <!--Search Box-->
-                            <div class="search-box-btn"><span class="flaticon-search"></span></div>
+                            <!-- <div class="search-box-btn"><span class="flaticon-search"></span></div> -->
 
                             <!-- Button Box -->
                             <div class="btn-box">
-                                <a href="buy-ticket.html" class="theme-btn btn-style-one"><span class="btn-title">Get Tickets</span></a>
+                                <a style="background-color: green;" href="buy-ticket.html" class="theme-btn btn-style-one"><span class="btn-title">Get Tickets</span></a>
                             </div>
                         </div>
                     </div>

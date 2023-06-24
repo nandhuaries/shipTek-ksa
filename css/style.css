@@ -863,7 +863,7 @@ img{
 
 .sec-title{
 	position:relative;
-	margin-bottom:70px;
+	margin-bottom:25px;
 }
 
 .sec-title .title{
@@ -2881,7 +2881,7 @@ img{
 
 .features-section{
 	position: relative;
-	padding: 120px 0 80px;
+	padding: 100px 0 30px;
 }
 
 .feature-block{
@@ -3774,7 +3774,7 @@ img{
 
 .speakers-section-two{
 	position: relative;
-	padding: 120px 0 70px;
+	/* padding: 120px 0 70px; */
 	overflow: hidden;
 }
 

@@ -1,4 +1,4 @@
-<?php include("header.php");?>
+<?php include("header.php"); ?>
 <!-- Banner Conference -->
 <section class="banner-conference">
     <video autoplay muted loop plays-inline class="backgroundClip">
@@ -53,15 +53,20 @@
         <div class="content-box">
             <span class="title text-white">4th - 5th June 2024</span>
             <ul class="info-list text-white">
-                <li><span>
-                    <img src="https://cdn-icons-png.flaticon.com/128/2991/2991231.png" style="height: 30px;" alt="">
-                </span> Saudi Arabia</li>
+                <li style="font-size: 20px;"><span>
+                        <img src="https://cdn-icons-png.flaticon.com/128/2991/2991231.png" style="height: 30px;" alt="">
+                    </span> Saudi Arabia</li>
             </ul>
             <h2 class="text-white">SHIPTEK<br>Conference 2020</h2>
             <div class="time-counter">
                 <div class="time-countdown clearfix" data-countdown="6/4/2024"></div>
             </div>
-            <div class="btn-box"><a href="buy-ticket.html" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Book Now</span></a></div>
+            <div class="btn-box">
+                <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Sponsorship enquiry</span></a>
+                <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Delegate Registration</span></a>
+                <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Nomination Registration</span></a>
+                <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Media Registration</span></a>
+            </div>
         </div>
     </div>
 </section>
@@ -72,37 +77,20 @@
     <div class="auto-container">
         <div class="anim-icons">
             <span class="icon icon-shape-3 wow fadeIn"></span>
-            <span class="icon icon-line-1 wow fadeIn"></span>
+            <!-- <span class="icon icon-line-1 wow fadeIn"></span> -->
         </div>
 
         <div class="row">
-            <!-- Feature Block -->
-            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <div class="icon-box"><span class="icon flaticon-search"></span></div>
-                    <h4><a href="about.html">Experience</a></h4>
-                    <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua.</div>
-                    <div class="link-box"><a href="about.html" class="theme-btn">Read More</a></div>
+            <div>
+                <div class="sec-title">
+                    <span class="title">About The Event</span>
+                    <h2 style="color: green;">WHY SAUDI ARABIA ?</h2>
                 </div>
-            </div>
-
-            <!-- Feature Block -->
-            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                <div class="inner-box">
-                    <div class="icon-box"><span class="icon flaticon-diamond-1"></span></div>
-                    <h4><a href="about.html">Networking</a></h4>
-                    <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua.</div>
-                    <div class="link-box"><a href="about.html" class="theme-btn">Read More</a></div>
-                </div>
-            </div>
-
-            <!-- Feature Block -->
-            <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
-                <div class="inner-box">
-                    <div class="icon-box"><span class="icon flaticon-success"></span></div>
-                    <h4><a href="about.html">Party</a></h4>
-                    <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua.</div>
-                    <div class="link-box"><a href="about.html" class="theme-btn">Read More</a></div>
+                <div class="text p-5" style="background-color: white;">
+                    <p class="text-justify">Saudi Arabia possesses around 18 per cent of the world’s proven petroleum reserves and ranks as the world ‘second largest of crude reserves. It also has the fifth-largest proven natural gas reserves. Saudi Arabia is a Founder Member of OPEC with total resource valued at $ 34.4 trillion to become the third country after Russia and the US to have the most plentiful and valuable natural resources. Saudi Arabia ranks among the best G20 economies.
+                        Saudi Arabia embarked on amazing journey by introduced sweeping and impressive economic reforms aimed at moving the country away from its dependence on oil in 2016. As part of its ambitious vision 2030, the kingdom developed strategies to diversify non-oil revenues.
+                        The KSA Government implemented reforms that made starting a business easier by establishing a one-stop shop, introduced a secured transactions law, insolvency law Protecting Minority Investors and measures were taken to empower more women to join the workforce.
+                    </p>
                 </div>
             </div>
         </div>
@@ -110,52 +98,40 @@
 </section>
 <!--End Features Section -->
 
+<!-- fun facts  -->
 <!-- Fun Fact Section -->
-<section class="fun-fact-section style-two" style="background-image: url(images/background/9.jpg);">
+<section class="fun-fact-section style-two mb-5" style="background-image: url(images/background/9.jpg)">
     <div class="auto-container">
         <div class="fact-counter">
-            <div class="row clearfix">
-
-                <!--Column-->
-                <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-                    <div class="count-box">
-                        <span class="icon icon_headphones"></span>
-                        <span class="count-text" data-speed="3000" data-stop="190">0</span>
-                        <h4 class="counter-title">Participants</h4>
-                    </div>
+            <div>
+                <div class="sec-title">
+                    <span class="titlee" style="color: white;">SHIPTEK</span>
+                    <h2 style="color: white;">ABOUT SHIPTEK KSA</h2>
                 </div>
+                <div class="text p-5">
+                    <p class="text-justify">
+                        ShipTek International Conference & Awards KSA 2024 – MARINE/OFFSHORE/OIL&GAS will be a physical event aimed at key decision makers and high-level policymakers This two-day event will bring together industry leaders, organizations, suppliers and experts for networking and business tie-up opportunities.
+                    </P>
+                    <p>
+                        Since its inception in 2008, this most popular name SHIPTEK in the maritime industry has traveled worldwide - Dubai, Singapore, Hongkong, Greece, Hamburg, India etc. making it one of the finest maritime events globally.<br>
+                    </p>
+                    <p>
+                        This mega event will comprise the following integral segments:
+                    </p>
+                    <ul class="list-style-two">
+                        <li>Two-days International Conference on Marine/Offshore/Oil&Gas </li>
+                        <li>ShipTek International Awards KSA 2024</li>
+                    </ul>
 
-                <!--Column-->
-                <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                    <div class="count-box">
-                        <span class="icon icon_ribbon_alt"></span>
-                        <span class="count-text" data-speed="3000" data-stop="62">0</span>
-                        <h4 class="counter-title">Awards Win</h4>
-                    </div>
-                </div>
 
-                <!--Column-->
-                <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
-                    <div class="count-box">
-                        <span class="icon icon_like"></span>
-                        <span class="count-text" data-speed="3000" data-stop="54">0</span>
-                        <h4 class="counter-title">Certified Teachers</h4>
-                    </div>
-                </div>
 
-                <!--Column-->
-                <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-                    <div class="count-box">
-                        <span class="icon icon_book_alt"></span>
-                        <span class="count-text" data-speed="3000" data-stop="38">0</span>
-                        <h4 class="counter-title">Courses</h4>
-                    </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
 <!--End Fun Fact Section -->
+<!-- end fun facts  -->
 
 <!-- Speakers Section -->
 <section class="speakers-section-two">
@@ -1126,4 +1102,4 @@
 </section>
 <!--End Subscribe Section -->
 
-<?php include("footer.php");?>
+<?php include("footer.php"); ?>
