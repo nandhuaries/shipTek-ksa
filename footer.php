@@ -11,7 +11,7 @@
                  <li><a href="#">Projects</a></li>
                  <li><a href="#">Contact Us</a></li>
              </ul>
-             <div class="copyright-text">© Copyright 2024 All Rights Reserved Developed By <span style="color: red";>❤</span> <a href="index.html">Aries e-Solutions </a></div>
+             <div class="copyright-text">© Copyright 2024 All Rights Reserved Developed By <span style="color: red" ;>❤</span> <a href="index.html">Aries e-Solutions </a></div>
              <ul class="social-icon-one">
                  <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
                  <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -93,6 +93,9 @@
  <script src="js/script.js"></script>
  <!-- Color Setting -->
  <script src="js/color-settings.js"></script>
+ <!-- recaptcha -->
+ <script src="https://www.google.com/recaptcha/api.js"></script>
+ <!-- recaptcha -->
  </body>
 
  </html>

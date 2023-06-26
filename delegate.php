@@ -9,8 +9,12 @@
     </div>
 </section>
 <div class="container p-5">
+    <div class="sec-title">
+        <span class="title">ShipTek</span>
+        <h2 style="color: green;">Delegate Registration</h2>
+    </div>
     <form action="">
-        <div class="row shadow-lg p-4 d-flex justify-content-center">
+        <div class="row shadow-lg d-flex justify-content-center" style="padding: 40px 10px;">
             <div class="col-12 col-lg-3 col-md-4 mb-4">
                 <!-- <label class="form-label" for="firstName">First Name</label> -->
                 <input class="form-control" type="text" placeholder="First Name" style="background-color: #f1f1f1; padding:15px 30px; width:100%; color:#555555 ; border: 1px solid #f1f1f1;" required>
@@ -49,6 +53,11 @@
                 <input class="form-control" style="background-color: #f1f1f1; padding:15px 30px; width:100%; color:#555555 ; border: 1px solid #f1f1f1;" type="text" placeholder="Department" required>
             </div>
             <div class="">
+                <div class="col-md-12 col-sm-12">
+                    <div class="g-recaptcha" data-sitekey="6Ldxe20UAAAAAD_17wcLirt0F7WmMb_Ixgoi3AYt"></div>
+                </div>
+            </div>
+            <div>
                 <div class="btn-box">
                     <button class="btn" style="background-color:green;color:#f1f1f1">Submit</button>
                 </div>
