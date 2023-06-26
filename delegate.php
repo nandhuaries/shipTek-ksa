@@ -14,7 +14,7 @@
         <h2 style="color: green;">Delegate Registration</h2>
     </div>
     <form action="">
-        <div class="row shadow-lg d-flex justify-content-center" style="padding: 40px 10px;">
+        <div class="row shadow-lg d-flex justify-content-center align-items-center" style="padding: 40px 10px;">
             <div class="col-12 col-lg-3 col-md-4 mb-4">
                 <!-- <label class="form-label" for="firstName">First Name</label> -->
                 <input class="form-control" type="text" placeholder="First Name" style="background-color: #f1f1f1; padding:15px 30px; width:100%; color:#555555 ; border: 1px solid #f1f1f1;" required>
