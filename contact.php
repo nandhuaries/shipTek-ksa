@@ -1,5 +1,5 @@
 <?php include("header.php"); ?>
-<section class="page-title" style="background-image:url(images/background/5.jpg);">
+<section class="page-title" style="background-image:url(our-images/banners/contact-banner.avif);">
     <div class="auto-container">
         <h1>Contact Us</h1>
         <ul class="bread-crumb clearfix">
@@ -16,25 +16,25 @@
             <div class="contact-column col-lg-4 col-md-12 col-sm-12 order-2">
                 <div class="inner-column">
                     <div class="sec-title">
-                        <h2>Contact Info</h2>
+                        <h2 style="color:green">Contact Info</h2>
                     </div>
                     <ul class="contact-info">
                         <li>
-                            <span class="icon fa fa-map-marker-alt"></span>
-                            <p><strong>Biz Events Management</strong></p>
+                            <span class="icon fa fa-map-marker-alt" style="background-color:green"></span>
+                            <p><strong style="color:green">Biz Events Management</strong></p>
                             <p>Tower 400, 20th Floor Sharjah, UAE P O Box : 24496</p>
                         </li>
 
                         <li>
-                            <span class="icon fa fa-phone-volume"></span>
-                            <p><strong>Call Us</strong></p>
+                            <span class="icon fa fa-phone-volume" style="background-color:green"></span>
+                            <p><strong style="color:green">Call Us</strong></p>
                             <p>+971 6 5503300</p>
                         </li>
 
                         <li>
-                            <span class="icon fa fa-envelope"></span>
-                            <p><strong>Mail Us</strong></p>
-                            <p><a href="mailto:eventmanager@ariesgroupglobal.com">eventmanager@ariesgroupglobal.com</a></p>
+                            <span class="icon fa fa-envelope" style="background-color:green"></span>
+                            <p><strong style="color:green">Mail Us</strong></p>
+                            <p><a href="mailto: eventmanager@ariesgroupglobal.com">eventmanager@ariesgroupglobal.com</a></p>
                         </li>
 
                         <!-- <li>
@@ -59,7 +59,7 @@
                 <div class="inner-column">
                     <div class="contact-form">
                         <div class="sec-title">
-                            <h2>Get in Touch</h2>
+                            <h2 style="color:green">Get in Touch</h2>
                         </div>
                         <form method="post" action="sendemail.php" id="contact-form">
                             <div class="row clearfix">
@@ -84,7 +84,7 @@
                                 </div>
 
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                    <button class="theme-btn btn-style-one" type="submit" name="submit-form"><span class="btn-title">Submit Now</span></button>
+                                    <button style="background-color: green;" class="theme-btn btn-style-one" type="submit" name="submit-form"><span class="btn-title">Submit Now</span></button>
                                 </div>
                             </div>
                         </form>

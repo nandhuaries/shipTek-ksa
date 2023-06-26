@@ -5,9 +5,6 @@
     <meta charset="utf-8">
     <title>ShipTek 2024 - Ksa</title>
     <!-- Stylesheets -->
-    <!-- ND styles -->
-    <link rel="stylesheet" href="css/video.css">
-    <!-- End ND styles -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
@@ -23,6 +20,10 @@
 
     <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+    <!-- ND styles -->
+
+    <link rel="stylesheet" href="css/video.css">
+    <!-- End ND styles -->
 
 </head>
 
@@ -42,7 +43,7 @@
             <div class="main-box">
                 <div class="auto-container clearfix">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.php"><img src="our-images/logos/logo23" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="our-images/logos/navLogo.png" alt="" title=""></a></div>
                     </div>
 
                     <!--Nav Box-->
@@ -60,53 +61,36 @@
 
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class="current dropdown"><a href="index.html">Home</a>
-                                        <ul>
-                                            <li><a href="index.html">Home Classic</a></li>
-                                            <li><a href="index-2.html">Home Conference</a></li>
-                                            <li><a href="index-3.html">Home Meetup</a></li>
-                                            <li><a href="index-4.html">Home Page Four</a></li>
-                                            <li><a href="index-5.html">Home Page Five</a></li>
-                                            <li class="dropdown"><a href="#">Header Styles</a>
-                                                <ul>
-                                                    <li><a href="index.html">Header Style One</a></li>
-                                                    <li><a href="index-2.html">Header Style Two</a></li>
-                                                    <li><a href="index-3.html">Header Style Three</a></li>
-                                                    <li><a href="index-4.html">Home Page Four</a></li>
-                                                    <li><a href="index-5.html">Home Page Five</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
+                                    <li class="current dropdown"><a href="index.php">Home</a></li>
                                     <li class="dropdown"><a href="about-us.html">About</a>
-                                        <ul>
+                                        <!-- <ul>
                                             <li><a href="about-us.html">About Us</a></li>
                                             <li><a href="pricing.html">Pricing</a></li>
                                             <li><a href="faqs.html">FAQ's</a></li>
                                             <li><a href="gallery.html">Gallery</a></li>
                                             <li><a href="coming-soon.html">Coming Soon</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="dropdown"><a href="speakers.html">Speakers</a>
-                                        <ul>
+                                        <!-- <ul>
                                             <li><a href="speakers.html">Speakers</a></li>
                                             <li><a href="speakers-detail.html">Speakers Detail</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="dropdown"><a href="schedule.html">Schedule</a>
-                                        <ul>
+                                        <!-- <ul>
                                             <li><a href="schedule.html">Schedule</a></li>
                                             <li><a href="event-detail.html">Event Detail</a></li>
                                             <li><a href="buy-ticket.html">Buy Ticket</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="dropdown"><a href="blog-sidebar.html">Blog</a>
-                                        <ul>
+                                        <!-- <ul>
                                             <li><a href="blog-sidebar.html">Blog With Sidebar</a></li>
                                             <li><a href="blog-grid.html">Blog Grid</a></li>
                                             <li><a href="blog-single.html">Blog Single</a></li>
                                             <li><a href="error-page.html">404 Error</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>
@@ -121,7 +105,7 @@
 
                             <!-- Button Box -->
                             <div class="btn-box">
-                                <a style="background-color: green;" href="buy-ticket.html" class="theme-btn btn-style-one"><span class="btn-title">Get Tickets</span></a>
+                                <a style="background-color: green;" href="contact.php" class="theme-btn btn-style-one"><span class="btn-title">Contact</span></a>
                             </div>
                         </div>
                     </div>

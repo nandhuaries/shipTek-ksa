@@ -57,13 +57,13 @@
                         <img src="https://cdn-icons-png.flaticon.com/128/2991/2991231.png" style="height: 30px;" alt="">
                     </span> Saudi Arabia</li>
             </ul>
-            <h2 class="text-white">SHIPTEK<br>Conference 2020</h2>
+            <h2 class="text-white">SHIPTEK<br>Conference 2024</h2>
             <div class="time-counter">
                 <div class="time-countdown clearfix" data-countdown="6/4/2024"></div>
             </div>
             <div class="btn-box">
                 <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Sponsorship enquiry</span></a>
-                <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Delegate Registration</span></a>
+                <a href="delegate.php" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Delegate Registration</span></a>
                 <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Nomination Registration</span></a>
                 <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Media Registration</span></a>
             </div>
