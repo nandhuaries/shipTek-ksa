@@ -153,7 +153,7 @@
                     <p class="text-justify">The conference topics cover a range of subjects related to the Marine, Offshore, Oil & Gas Industry including Technological Advancements, Environmental Considerations, Safety, Sustainability, and various operations. The presentations will aim to address Current Challenges, Share Knowledge and discuss future opportunities in the sector. </p>
                     <p class="title">PRESENTATION TOPICS WILL COVER -</p>
                     <div class="row">
-                        <div class="col-6">
+                        <div class="col-12 col-lg-6 col-md-6">
                             <ul class="list-style-two">
                                 <li>GREEN SHIPPING: DECARBONIZATION STRATEGIES AND TECHNOLOGIES</li>
                                 <li>DIGITALIZATION IN MARITIME OPERATIONS: FROM SMART PORTS TO BLOCKCHAIN</li>
@@ -168,7 +168,7 @@
                                 <li>SUBSEA ENGINEERING AND INNOVATIONS IN DEEPWATER OPERATIONS</li>
                             </ul>
                         </div>
-                        <div class="col-6">
+                        <div class="col-12 col-lg-6 col-md-6">
                             <ul class="list-style-two">
                                 <li>MARINE AND OFFSHORE ENVIRONMENTAL MONITORING AND COMPLIANCE</li>
                                 <li>SUSTAINABLE ENERGY SOLUTIONS FOR THE OIL & GAS INDUSTRY</li>
@@ -190,6 +190,88 @@
     </div>
 </section>
 <!-- End Speakers Section -->
+
+<!-- SHIPTEK INTERNATIONAL AWARDS KSA - 2024  -->
+
+<!-- Fun Fact Section -->
+<!-- <section class="fun-fact-section style-two" style="background-image: url(images/background/9.jpg);"> -->
+<!-- <section class="fun-fact-section style-two" style="background-image: url(https://i.pinimg.com/originals/b5/c5/a6/b5c5a694b291a34c7f0fd5de2dd71a58.gif);"> -->
+<!-- <section class="fun-fact-section style-two" style="background-image: url(https://t4.ftcdn.net/jpg/05/28/90/43/360_F_528904357_wRur2TnRmUKXgRnbrSF8CYewb6aNgZ9S.jpg);"> -->
+<section class="fun-fact-section style-two " style="background-image: url(https://img.freepik.com/premium-vector/abstract-white-graphic-design-presentation-wide-background-web-banner-template_156943-1022.jpg); background-attachment: fixed;">
+    <div class="container">
+        <div class="row">
+            <div class="sec-title">
+                <!-- <span class="title">About The Event</span> -->
+                <h2 style="color: green;">SHIPTEK INTERNATIONAL CONFERENCE KSA - TOPICS 2024</h2>
+            </div>
+            <div class="text p-5 sec-title">
+                <p class="text-justify lh-lg" style="color: green;">Saudi Arabia possesses around 18 per cent of the world’s proven petroleum reserves and ranks as the world ‘second largest of crude reserves. It also has the fifth-largest proven natural gas reserves. Saudi Arabia is a Founder Member of OPEC with total resource valued at $ 34.4 trillion to become the third country after Russia and the US to have the most plentiful and valuable natural resources. Saudi Arabia ranks among the best G20 economies.
+                    Saudi Arabia embarked on amazing journey by introduced sweeping and impressive economic reforms aimed at moving the country away from its dependence on oil in 2016. As part of its ambitious vision 2030, the kingdom developed strategies to diversify non-oil revenues.
+                    The KSA Government implemented reforms that made starting a business easier by establishing a one-stop shop, introduced a secured transactions law, insolvency law Protecting Minority Investors and measures were taken to empower more women to join the workforce.
+                </p>
+                <p class="title">Become a part of this Grand Evening of Recognition where Excellence Matters..!! </p>
+                <div class="row mt-3">
+                    <div class="col-12 col-lg-6 col-md-6 ">
+                        <ul class="list-style-one">
+                            <li>Best HSE Initiatives.</li>
+                            <li>Sustainable Organization of the Year </li>
+                            <li>Best Employer of the Year </li>
+                            <li>Ship Repair Yard of the Year </li>
+                            <li>Best Training Institute </li>
+                            <li>Offshore Project of the Year </li>
+                            <li>Green Shipping Award </li>
+                            <li>Tanker Operator of the Year </li>
+                            <li>Ship Operator of the Year </li>
+                            <li>CSR Award of the Year </li>
+                            <li>Best Ship Agency of the Year </li>
+                            <li>Port of the Year </li>
+                            <li>Best Project - Innovation </li>
+                        </ul>
+                    </div>
+                    <div class="col-12 col-lg-6 col-md-6">
+                        <ul class="list-style-one">
+                            <li>Best Classification Society of the Year</li>
+                            <li>Ship Manager of the Year</li>
+                            <li>New Building Yard of the Year</li>
+                            <li>Rising Star – Organization</li>
+                            <li>Rising Star - Individual</li>
+                            <li>Law firm of the Year</li>
+                            <li>Young Women Achiever of the Year </li>
+                            <li>Offshore Industry Leader of the Year Award</li>
+                            <li>Best Service Provider - Marine</li>
+                            <li>Best Service Provider - Offshore</li>
+                            <li>Best Service Provider - Oil & Gas</li>
+                            <li>Best Maritime Association</li>
+                            <li>CEO of the Year</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="mt-3">
+                    <div>
+                        <p class="title mt-3">JURY AWARDS - </p>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 col-lg-6 col-md-6">
+                            <ul class="list-style-one">
+                                <li>ShipTek – Women Personality of the Year</li>
+                                <li>ShipTek - Maritime Personality of the Year </li>
+                            </ul>
+                        </div>
+                        <div class="col-12 col-lg-6 col-md-6">
+                            <ul class="list-style-one">
+                                <li>ShipTek Life Time Achievement Award - Entrepreneur </li>
+                                <li>ShipTek Life Time Achievement Award - Services </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End Fun Fact Section -->
+
+<!-- end SHIPTEK INTERNATIONAL AWARDS KSA - 2024  -->
 
 <!-- Schedule Section Style two -->
 <section class="schedule-section style-two">
@@ -560,86 +642,7 @@
 </section>
 <!--End schedule Section -->
 
-<!-- Pricing Section -->
-<section class="pricing-section-two">
-    <div class="anim-icons">
-        <span class="icon icon-line-1 wow zoomIn"></span>
-        <span class="icon icon-circle-1 wow zoomIn"></span>
-        <span class="icon icon-dots wow zoomIn"></span>
-    </div>
 
-    <div class="auto-container">
-        <div class="sec-title text-center">
-            <span class="title">Get Ticket</span>
-            <h2>Choose a Ticket</h2>
-        </div>
-
-        <div class="outer-box">
-            <div class="row">
-                <!-- Pricing Block -->
-                <div class="pricing-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                        <div class="title"><span class="icon flaticon-movie-tickets"></span> Day Pass</div>
-                        <div class="price-box">
-                            <h4 class="price">$35.99</h4>
-                        </div>
-                        <ul class="features">
-                            <li class="true">Conference Tickets</li>
-                            <li class="true">Free Lunch And Coffee</li>
-                            <li class="true">Certificate</li>
-                            <li class="true">Easy Access</li>
-                            <li class="true">Free Contacts</li>
-                        </ul>
-                        <div class="btn-box">
-                            <a href="buy-ticket.html" class="theme-btn btn-style-one"><span class="btn-title">BUY Ticket</span></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Pricing Block -->
-                <div class="pricing-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                    <div class="inner-box">
-                        <div class="title"><span class="icon flaticon-movie-tickets"></span> Full Pass</div>
-                        <div class="price-box">
-                            <h4 class="price">$99.99</h4>
-                        </div>
-                        <ul class="features">
-                            <li class="true">Conference Tickets</li>
-                            <li class="true">Free Lunch And Coffee</li>
-                            <li class="true">Certificate</li>
-                            <li class="true">Easy Access</li>
-                            <li class="true">Free Contacts</li>
-                        </ul>
-                        <div class="btn-box">
-                            <a href="buy-ticket.html" class="theme-btn btn-style-one"><span class="btn-title">BUY Ticket</span></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Pricing Block -->
-                <div class="pricing-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-                    <div class="inner-box">
-                        <div class="title"><span class="icon flaticon-movie-tickets"></span> Group Pass</div>
-                        <div class="price-box">
-                            <h4 class="price">$199.99</h4>
-                        </div>
-                        <ul class="features">
-                            <li class="true">Conference Tickets</li>
-                            <li class="true">Free Lunch And Coffee</li>
-                            <li class="true">Certificate</li>
-                            <li class="true">Easy Access</li>
-                            <li class="true">Free Contacts</li>
-                        </ul>
-                        <div class="btn-box">
-                            <a href="buy-ticket.html" class="theme-btn btn-style-one"><span class="btn-title">BUY Ticket</span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--End Pricing Section -->
 
 <!-- Event Info Section -->
 <section class="event-info-section">
