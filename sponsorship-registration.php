@@ -4,7 +4,7 @@
         <h1>Contact Us</h1>
         <ul class="bread-crumb clearfix">
             <li><a href="index.php">Home</a></li>
-            <li>Delegate Registration</li>
+            <li>Sponsorship Registration</li>
         </ul>
     </div>
 </section>
@@ -38,7 +38,7 @@
                 <input class="form-control" style="background-color: #f1f1f1; padding:15px 30px; width:100%; color:#555555 ; border: 1px solid #f1f1f1;" type="text" placeholder="Where Are You Located ?" required>
             </div>
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <select style="background-color: #f1f1f1; padding:15px 0px; width:100%; color:#555555 ; border: 1px solid #f1f1f1;" name="Select Sponsor Ship Category" id="" class="form-control">
+                <select style="background-color: #f1f1f1; padding:15px 0px; width:100%; color:#555555 ; border: 1px solid #f1f1f1; height:55px" name="Select Sponsor Ship Category" id="" class="form-control">
                     <option value="" disabled selected>
                         Select Sponsor Ship Category
                     </option>
