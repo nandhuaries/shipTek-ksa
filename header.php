@@ -3,11 +3,12 @@
 
 <head>
     <meta charset="utf-8">
-    <title>ShipTek 2024 - Ksa</title>
+    <title>ShipTek 2024 - KSA</title>
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style-nd.css">
     <!--Color Switcher Mockup-->
     <link href="css/color-switcher-design.css" rel="stylesheet">
 
@@ -63,34 +64,12 @@
                                 <ul class="navigation clearfix">
                                     <li class="current dropdown"><a href="index.php">Home</a></li>
                                     <li class="dropdown"><a href="about-us.html">About</a>
-                                        <!-- <ul>
-                                            <li><a href="about-us.html">About Us</a></li>
-                                            <li><a href="pricing.html">Pricing</a></li>
-                                            <li><a href="faqs.html">FAQ's</a></li>
-                                            <li><a href="gallery.html">Gallery</a></li>
-                                            <li><a href="coming-soon.html">Coming Soon</a></li>
-                                        </ul> -->
                                     </li>
                                     <li class="dropdown"><a href="speakers.html">Speakers</a>
-                                        <!-- <ul>
-                                            <li><a href="speakers.html">Speakers</a></li>
-                                            <li><a href="speakers-detail.html">Speakers Detail</a></li>
-                                        </ul> -->
                                     </li>
                                     <li class="dropdown"><a href="schedule.html">Schedule</a>
-                                        <!-- <ul>
-                                            <li><a href="schedule.html">Schedule</a></li>
-                                            <li><a href="event-detail.html">Event Detail</a></li>
-                                            <li><a href="buy-ticket.html">Buy Ticket</a></li>
-                                        </ul> -->
                                     </li>
                                     <li class="dropdown"><a href="blog-sidebar.html">Blog</a>
-                                        <!-- <ul>
-                                            <li><a href="blog-sidebar.html">Blog With Sidebar</a></li>
-                                            <li><a href="blog-grid.html">Blog Grid</a></li>
-                                            <li><a href="blog-single.html">Blog Single</a></li>
-                                            <li><a href="error-page.html">404 Error</a></li>
-                                        </ul> -->
                                     </li>
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>

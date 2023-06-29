@@ -11,7 +11,8 @@
                  <li><a href="#">Projects</a></li>
                  <li><a href="#">Contact Us</a></li>
              </ul>
-             <div class="copyright-text">© Copyright 2024 All Rights Reserved Developed By <span style="color: red";>❤</span> <a href="index.html">Aries e-Solutions </a></div>
+             <!-- <div class="copyright-text">© Copyright 2024 All Rights Reserved Developed By <span style="color: red";>❤</span> <a href="index.html">Aries e-Solutions </a></div> -->
+             <div class="copyright-text">© Copyright <script>document.write(new Date().getFullYear())</script> All Rights Reserved Developed By <span style="color: red";>❤</span> <a href="index.html">Aries e-Solutions </a></div>
              <ul class="social-icon-one">
                  <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
                  <li><a href="#"><span class="fab fa-twitter"></span></a></li>
