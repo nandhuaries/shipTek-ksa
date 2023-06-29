@@ -514,11 +514,964 @@
 
 
 
-<!-- Event Info Section -->
-<section class="event-info-section">
-    
-</section>
-<!--End Event Info Section -->
+<!-- speakers Section -->
+<!-- <section class="event-info-section"> -->
+    <!-- Speakers Section -->
+    <section class="speakers-section speak" id="speakers" style="background-image: url(pics/gif/speakerSec.gif)">
+        <div class="auto-container">
+            <div class="sec-title light text-center">
+                <span class="title">ShipTek 2023</span>
+                <h2>Speakers</h2>
+            </div>
+
+            <div class="row">
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/hessa-almalek.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">H.E Eng Hessa Ahmed Hamdan Almalek</a>
+                                </h4>
+                                <span class="designation">Advisor to the Minister for Maritime Transport Affairs,
+                                    The UAE Ministry of Energy & Infrastructure</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/Ibrahim.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Ibrahim Behairy</a>
+                                </h4>
+                                <span class="designation">Managing Director Middle East & Africa, Winterthur Gas &
+                                    Diesel DMCC.</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/varghese.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Capt.Thomas Varghese</a>
+                                </h4>
+                                <span class="designation">Managing Director Synergy Mideast Ship Management</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/martin.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Martin Helweg</a>
+                                </h4>
+                                <span class="designation">Chief Executive Officer P&O Maritime Logistics</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/abhay-nimbalkar.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Capt. Abhay Nimbalkar</a>
+                                </h4>
+                                <span class="designation">CEO Greenfield Marine Technologies</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/ramtin.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Ramtin Rasoulinezhad</a>
+                                </h4>
+                                <span class="designation">Chief Technology Officer Shift Clean Energy</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/gireesh-menon.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Gireesh Menon </a>
+                                </h4>
+                                <span class="designation">Managing Director Aries Marine & Engg.</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/jaideep-vohra.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Jaideep Vohra</a>
+                                </h4>
+                                <span class="designation">Director Fleet Performance & Drydocking BAHRI</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/ali-abouda.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Ali Abouda</a>
+                                </h4>
+                                <span class="designation">Chief Financial Officer Gulf Navigation Holding
+                                    PJSC</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/jamil-al-ali.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Jamil Al Ali</a>
+                                </h4>
+                                <span class="designation">Head of Commercial & BD Middle East Marine & Offshore,
+                                    Bureau Veritas.
+                                </span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/evengenii.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Evgenii Egorov</a>
+                                </h4>
+                                <span class="designation">Business Development Manager CADMATIC</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/willem-moelker.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Willem Moelker</a>
+                                </h4>
+                                <span class="designation">Sales & Marketing Director Albwardy Damen</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/vikas.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Capt. Vikas Pandey</a>
+                                </h4>
+                                <span class="designation">Co-Founder, COO ShipFinex</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/stam.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Stam Achillas</a>
+                                </h4>
+                                <span class="designation">Head of Business Development Wartsila Services
+                                    Switzerland</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/simon.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Simon Grainge</a>
+                                </h4>
+                                <span class="designation">Chief Executive, International Seafarers’ Welfare and
+                                    Assistance Network (ISWAN)</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/vivek-seth1.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Vivek Seth</a>
+                                </h4>
+                                <span class="designation">Senior Vice President, Marine Services ADNOC Logistics &
+                                    Services</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/sherif-azzam.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Sherif Azzam</a>
+                                </h4>
+                                <span class="designation">Key Account Manager, Business Development Middle East at
+                                    DNV Maritime</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/shakeel.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Shakeel Shamsudeen</a>
+                                </h4>
+                                <span class="designation">Director Of Operations - Digital Viswa Group</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/varsha.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Varsha V B</a>
+                                </h4>
+                                <span class="designation">Naval Architecture & Ship Building Engg. Sree Narayana
+                                    Gurukulam</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/gokul.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Gokul A</a>
+                                </h4>
+                                <span class="designation">Btech Naval Architect Sree Narayana Gurukulam</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/dheeraj-sharma.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Capt. Dheeraj Sharma</a>
+                                </h4>
+                                <span class="designation">Director Business Development ABS Dubai (ME &
+                                    Africa)</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/kaushik-neogy.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Kaushik Neogy</a>
+                                </h4>
+                                <span class="designation">Sr. Commercial Manager Al Seer Marine</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/alexander-mordvintsev.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Alexander Mordvintsev</a>
+                                </h4>
+                                <span class="designation">Business Development Manager TRICON DP</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/ramee-rashid.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Ramee Rashid</a>
+                                </h4>
+                                <span class="designation">Owner & Director Seamaster Maritime</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+
+                <!-- extra speakers adding -->
+
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/aftab-hasan.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Aftab Hasan</a>
+                                </h4>
+                                <span class="designation">Chairman, Risk Exchange (DIFC) Limited CEO, Arya
+                                    Insurance Brokerage Co. (Bayzat)</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/tony-dagher.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Tony Dagher</a>
+                                </h4>
+                                <span class="designation">Managing Director TMC Shipping DMCC</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/russel.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Russell Ford</a>
+                                </h4>
+                                <span class="designation">Chief Surveyor ABS</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+                <!-- Speaker Block -->
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="Javascript: void(0)"><img src="pics/speakers/harsh.jpg" alt="" /></a>
+                            </figure>
+                        </div>
+                        <div class="info-box">
+                            <div class="inner">
+                                <h4 class="name">
+                                    <a href="Javascript: void(0)">Harsh Nagamoti</a>
+                                </h4>
+                                <span class="designation">Lead Engineer- EIT Aries Marine & Engg Services LLC</span>
+                                <!-- <ul class="social-links social-icon-colored">
+                      <li>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                      </li>
+                    </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end speaker -->
+
+                <!-- end extra speakers adding -->
+            </div>
+        </div>
+    </section>
+    <!-- End Speakers Section -->
+<!-- </section> -->
+<!--End speakers Section -->
 
 <!--Clients Section-->
 <section class="clients-section-two" style="background-image: url(images/background/9.jpg);">
