@@ -8,7 +8,7 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style-nd.css">
+    
     <!--Color Switcher Mockup-->
     <link href="css/color-switcher-design.css" rel="stylesheet">
 
@@ -24,6 +24,7 @@
     <!-- ND styles -->
 
     <link rel="stylesheet" href="css/video.css">
+    <link rel="stylesheet" href="css/style-nd.css">
     <!-- End ND styles -->
 
 </head>

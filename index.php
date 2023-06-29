@@ -65,7 +65,8 @@
                 <a href="sponsorship-registration.php" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Sponsorship enquiry</span></a>
                 <a href="delegate.php" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Delegate Registration</span></a>
                 <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Nomination Registration</span></a>
-                <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Media Registration</span></a>
+                <!-- <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Media Registration</span></a> -->
+                <a href="exampleModal" style="background-color: green;" class="theme-btn btn-style-two" data-toggle="modal" data-target="#exampleModal"><span class="btn-title">Media Registration</span></a>
             </div>
         </div>
     </div>
@@ -515,58 +516,7 @@
 
 <!-- Event Info Section -->
 <section class="event-info-section">
-    <div class="auto-container">
-        <div class="row">
-            <!-- Info Column -->
-            <div class="info-column col-lg-6 col-md-12 col-sm-12">
-                <div class="inner-column">
-                    <div class="sec-title style-two">
-                        <span class="title">Reach us</span>
-                        <h2>Direction for the <br>Event hall</h2>
-                    </div>
-
-                    <div class="event-info-tabs tabs-box">
-                        <!--Tabs Box-->
-                        <ul class="tab-buttons clearfix">
-                            <li class="tab-btn active-btn" data-tab="#tab1">Time</li>
-                            <li class="tab-btn" data-tab="#tab2">Venue</li>
-                            <li class="tab-btn" data-tab="#tab3">How to</li>
-                        </ul>
-
-                        <div class="tabs-content">
-                            <!--Tab-->
-                            <div class="tab active-tab" id="tab1">
-                                <h4><span class="icon far fa-calendar"></span> January 20, 2020</h4>
-                                <div class="text">9.00 AM - 04.00 PM</div>
-                                <ul class="info-list">
-                                    <li><span class="icon icon_profile"></span> Dianne Ameter</li>
-                                    <li><span class="icon icon_phone"></span> <a href="tel:+690-147-265-345">+123 456 7890</a></li>
-                                    <li><span class="icon icon_mail"></span> <a href="mailto:sopport@Eventrox.com">sopport@Eventrox.com</a></li>
-                                </ul>
-                            </div>
-
-                            <!--Tab-->
-                            <div class="tab" id="tab2">
-                                <h4><span class="icon fa fa-map-marker-alt"></span>Pearl hotel, New york, USA</h4>
-                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. Aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</div>
-                            </div>
-
-                            <!--Tab-->
-                            <div class="tab" id="tab3">
-                                <h4><span class="icon fa fa-directions"></span> How to get there</h4>
-                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. Aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Image Column -->
-            <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                <figure class="image"><img src="images/icons/map-4.png" alt=""></figure>
-            </div>
-        </div>
-    </div>
+    
 </section>
 <!--End Event Info Section -->
 
@@ -831,5 +781,75 @@
     </div>
 </section>
 <!--End Subscribe Section -->
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content" style="background-color: #fffefa;">
+            <div class="modal-header">
+                <h3 class="modal-title" id="exampleModalLabel" style="color: green; font-weight:700">Media Registration</h3>
+                <button style="margin-top: 0px;" type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="col">
+                        <!-- <h4 class="text-center">Media Registration ShipTek Dubai 2024</h4> -->
+                        <div>
+                            <form action="media-reg-action.php" method="post" id="media-reg">
+                                <?php
+                                if (isset($_GET['status']) && $_GET['status'] == 0) {
+
+                                    echo '<script language="javascript">';
+                                    echo 'alert("Please click on the reCAPTCHA box")';
+                                    echo '</script>';
+                                }
+                                if (isset($_GET['status']) && $_GET['status'] == 1) {
+
+                                    echo '<script language="javascript">';
+                                    echo 'alert("Your Media Registration has been submitted successfuly")';
+                                    echo '</script>';
+                                } ?>
+                                <div class="col-12">
+                                    <label for="name-of-media">Name Of Media</label><br>
+                                    <input type="text" id="name" name="name" class="inp form-control" placeholder="Name Of Media" required>
+                                </div>
+                                <div class="col-12">
+                                    <label for="location">Location</label><br>
+                                    <input type="text" id="location" name="location" class="inp form-control" placeholder="Location" required>
+                                </div>
+                                <div class="col-12">
+                                    <label for="website">Website</label><br>
+                                    <input type="text" id="website" name="website" class="inp form-control" placeholder="Website" required>
+                                </div>
+                                <div class="col-12">
+                                    <label for="contact-information">Contact Information</label><br>
+                                    <input type="text" id="information" name="information" class="inp form-control" placeholder="Contact Information" required>
+                                </div>
+                                <div class="col-md-12 col-sm-12 mt-3">
+                                    <div class="g-recaptcha" data-sitekey="6Ldxe20UAAAAAD_17wcLirt0F7WmMb_Ixgoi3AYt"></div>
+                                </div>
+                                <div class="row justify-content-center mt-3 mx-3">
+                                    <button type="submit" name="submit" id="submit" class="btn subm">Submit</button>
+                                    <button type="button" class="btn btn-dark" style="display: none" id="waitmsg" value="Please Wait..." disabled="disabled">
+                                        Please Wait...
+                                    </button>
+                                </div>
+                                <div class="modal-footer mt-4">
+                                    <!--<button type="submit" id="submit" class="btn btn-primary">Register</button>
+					  <button type="button" class="btn btn-dark" style="display: none"  id="waitmsg" value="Please Wait..." disabled="disabled">
+                                        Please Wait...
+                                    </button>-->
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end modal -->
 
 <?php include("footer.php"); ?>
