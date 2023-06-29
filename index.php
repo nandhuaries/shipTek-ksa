@@ -339,18 +339,6 @@
                         <span class="date">02</span>
                         <span class="month">Jan</span> 2020
                     </li>
-
-                    <li class="tab-btn" data-tab="#tab-3">
-                        <span class="day">Day 03</span>
-                        <span class="date">03</span>
-                        <span class="month">Jan</span> 2020
-                    </li>
-
-                    <li class="tab-btn" data-tab="#tab-4">
-                        <span class="day">Day 04</span>
-                        <span class="date">04</span>
-                        <span class="month">Jan</span> 2020
-                    </li>
                 </ul>
             </div>
 
@@ -398,7 +386,7 @@
                         </div>
 
                         <!-- schedule Block -->
-                        <div class="schedule-block">
+                        <!-- <div class="schedule-block">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">11.00 AM - 12.00 AM</div>
@@ -414,10 +402,10 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- schedule Block -->
-                        <div class="schedule-block">
+                        <!-- <div class="schedule-block">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">12.00 AM - 01.00 PM</div>
@@ -433,7 +421,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
 
@@ -479,7 +467,7 @@
                         </div>
 
                         <!-- schedule Block -->
-                        <div class="schedule-block">
+                        <!-- <div class="schedule-block">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">11.00 AM - 12.00 AM</div>
@@ -495,10 +483,10 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- schedule Block -->
-                        <div class="schedule-block">
+                        <!-- <div class="schedule-block">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">12.00 AM - 01.00 PM</div>
@@ -514,169 +502,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!--Tab-->
-                <div class="tab" id="tab-3">
-                    <div class="schedule-timeline">
-                        <!-- schedule Block -->
-                        <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">9.00 AM - 10.00 AM</div>
-                                    <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div>
-                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- schedule Block -->
-                        <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">10.00 AM - 11.00 AM</div>
-                                    <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div>
-                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- schedule Block -->
-                        <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">11.00 AM - 12.00 AM</div>
-                                    <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div>
-                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- schedule Block -->
-                        <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">12.00 AM - 01.00 PM</div>
-                                    <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div>
-                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!--Tab-->
-                <div class="tab" id="tab-4">
-                    <div class="schedule-timeline">
-                        <!-- schedule Block -->
-                        <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">9.00 AM - 10.00 AM</div>
-                                    <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div>
-                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- schedule Block -->
-                        <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">10.00 AM - 11.00 AM</div>
-                                    <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div>
-                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- schedule Block -->
-                        <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">11.00 AM - 12.00 AM</div>
-                                    <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div>
-                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- schedule Block -->
-                        <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">12.00 AM - 01.00 PM</div>
-                                    <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div>
-                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -911,62 +737,65 @@
     </div>
 
     <div class="auto-container">
-        <div class="sec-title text-center">
-            <span class="title">Blogs</span>
-            <h2>Latest News</h2>
+        <div class="sec-title ">
+            <span class="title">ShipTek</span>
+            <h2>Latest News And Blogs</h2>
         </div>
 
-        <div class="row">
+        <div class="row justify-content-center">
 
             <!-- News Block Three -->
             <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
-                <div class="inner-box">
+                <div class="inner-box h-100">
                     <div class="image-box">
-                        <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                        <figure class="image"><a href="blog-single.html"><img src="our-images/blog/shiptek22-news1.png" alt=""></a></figure>
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
-                            <li><span class="far fa-user"></span> Admin</li>
-                            <li><span class="far fa-comments"></span> Comment 03</li>
+                            <li><span class="far fa-fa-"></span> 09th March , 2022</li>
+                            <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="blog-single.html">International Conference on Art Business</a></h4>
-                        <div class="btn-box"><a href="#" class="read-more">Read More</a></div>
+                        <h4><a href="javascript:void(0)">Industry veterans and organisations honoured at the prestigious SHIPTEK INTERNATIONAL AWARDS 2022</a></h4>
+                        <div class="btn-box"><a href="https://www.marasinews.com/top-news/industry-veterans-and-organisations-honoured-prestigious-shiptek-international-awards-2022" class="read-more">Read More</a></div>
                     </div>
                 </div>
             </div>
 
             <!-- News Block Three -->
             <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="400ms">
-                <div class="inner-box">
+                <div class="inner-box h-100">
                     <div class="image-box">
-                        <figure class="image"><a href="blog-single.html"><img src="images/resource/news-2.jpg" alt=""></a></figure>
+                        <figure class="image"><a href="blog-single.html"><img src="our-images/blog/shiptek22-news2.png" alt=""></a></figure>
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
-                            <li><span class="far fa-user"></span> Admin</li>
-                            <li><span class="far fa-comments"></span> Comment 03</li>
+                            <li><span class="far fa-"></span> 09th March , 2022</li>
+                            <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="blog-single.html">International Conference on Art Business</a></h4>
-                        <div class="btn-box"><a href="#" class="read-more">Read More</a></div>
+                        <h4><a href="javascript:void(0)">Industry Veterans & Organizations honoured with the prestigious ShipTek International Awards 2022</a></h4>
+                        <div class="btn-box"><a href="https://www.hellenicshippingnews.com/industry-veterans-organizations-honoured-with-the-prestigious-shiptek-international-awards-2022/" class="read-more">Read More</a></div>
                     </div>
                 </div>
             </div>
 
             <!-- News Block Three -->
             <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="800ms">
-                <div class="inner-box">
+                <div class="inner-box h-100">
                     <div class="image-box">
-                        <figure class="image"><a href="blog-single.html"><img src="images/resource/news-3.jpg" alt=""></a></figure>
+                        <figure class="image"><a href="blog-single.html"><img src="our-images/blog/shiptek22-news3.png" alt=""></a></figure>
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
-                            <li><span class="far fa-user"></span> Admin</li>
-                            <li><span class="far fa-comments"></span> Comment 03</li>
+                            <li><span class="far fa-"></span> 08th March , 2022</li>
+                            <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="blog-single.html">International Conference on Art Business</a></h4>
-                        <div class="btn-box"><a href="#" class="read-more">Read More</a></div>
+                        <h4><a href="javascript:void(0)">Ministry of Energy and Infrastructure wins award at ShipTek 2022</a></h4>
+                        <div class="btn-box"><a href="https://www.wam.ae/en/details/1395303027757" class="read-more">Read More</a></div>
                     </div>
                 </div>
+            </div>
+            <div class="btn-box col-12 row justify-content-center">
+                <a style="background-color: green;" href="blog-full.php" class="theme-btn btn-style-one"><span class="btn-title">View More</span></a>
             </div>
         </div>
     </div>
