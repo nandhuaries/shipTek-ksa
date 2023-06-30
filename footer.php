@@ -5,19 +5,20 @@
          <div class="footer-content">
              <div class="footer-logo"><a href="#"><img src="our-images/logos/logo23" alt=""></a></div>
              <ul class="footer-nav">
-                 <li><a href="#">Home</a></li>
-                 <li><a href="#">About Us</a></li>
-                 <li><a href="#">Services</a></li>
-                 <li><a href="#">Projects</a></li>
-                 <li><a href="#">Contact Us</a></li>
+                 <li><a href="index">Home</a></li>
+                 <li><a href="index#about">About Us</a></li>
+                 <li><a href="index#speakers">Speakers</a></li>
+                 <li><a href="index#sponsors">Sponsors</a></li>
+                 <li><a href="index#agenda">Agenda</a></li>
+                 <li><a href="https://www.shiptekmaritimeevents.com/gallery" target="_blank">Gallery</a></li>
              </ul>
              <!-- <div class="copyright-text">© Copyright 2024 All Rights Reserved Developed By <span style="color: red";>❤</span> <a href="index.html">Aries e-Solutions </a></div> -->
              <div class="copyright-text">© Copyright <script>
                      document.write(new Date().getFullYear())
                  </script> All Rights Reserved Developed By <span style="color: red" ;>❤</span> <a href="index.html">Aries e-Solutions </a></div>
              <ul class="social-icon-one">
-                 <li><a href="https://www.facebook.com/ShiptekMaritimeEvents/"><span class="fab fa-facebook-f"></span></a></li>
-                 <li><a href="https://www.linkedin.com/company/shiptek/"><span class="fab fa-linkedin-in"></span></a></li>
+                 <li><a href="https://www.facebook.com/ShiptekMaritimeEvents/" target="_blank"><span class="fab fa-facebook-f"></span></a></li>
+                 <li><a href="https://www.linkedin.com/company/shiptek/" target="_blank"><span class="fab fa-linkedin-in"></span></a></li>
              </ul>
          </div>
      </div>

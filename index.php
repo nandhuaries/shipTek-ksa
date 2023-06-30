@@ -74,7 +74,7 @@
 <!--End Banner Conference -->
 
 <!-- Features Section -->
-<section class="features-section">
+<section class="features-section" id="about">
     <div class="auto-container">
         <div class="anim-icons">
             <span class="icon icon-shape-3 wow fadeIn"></span>
@@ -131,391 +131,6 @@
 <!--End Fun Fact Section -->
 <!-- end fun facts  -->
 
-<!-- Speakers Section -->
-<section class="speakers-section-two">
-    <div class="anim-icons">
-        <span class="icon icon-circle-4 wow zoomIn"></span>
-        <!-- <span class="icon icon-circle-3 wow zoomIn"></span> -->
-    </div>
-
-    <div class="container">
-        <div class="auto-container ">
-            <!-- <div class="sec-title text-center">
-            <span class="title">Speakers</span>
-            <h2>Todays Performers</h2>
-        </div> -->
-
-            <div style="background-color: white;" class="row ">
-                <div class="sec-title">
-                    <!-- <span class="title">About The Event</span> -->
-                    <h2 style="color: green;">SHIPTEK INTERNATIONAL CONFERENCE KSA - TOPICS 2024</h2>
-                </div>
-                <div class="text sec-title">
-                    <p class="text-justify">The conference topics cover a range of subjects related to the Marine, Offshore, Oil & Gas Industry including Technological Advancements, Environmental Considerations, Safety, Sustainability, and various operations. The presentations will aim to address Current Challenges, Share Knowledge and discuss future opportunities in the sector. </p>
-                    <p class="title">PRESENTATION TOPICS WILL COVER -</p>
-                    <div class="row">
-                        <div class="col-12 col-lg-6 col-md-6">
-                            <ul class="list-style-two">
-                                <li>GREEN SHIPPING: DECARBONIZATION STRATEGIES AND TECHNOLOGIES</li>
-                                <li>DIGITALIZATION IN MARITIME OPERATIONS: FROM SMART PORTS TO BLOCKCHAIN</li>
-                                <li>ESG (ENVIRONMENTAL, SOCIAL, AND GOVERNANCE) IN OFFSHORE/ OIL & GAS</li>
-                                <li>MARINE ROBOTICS AND AUTONOMOUS SYSTEMS IN OFFSHORE APPLICATIONS</li>
-                                <li>ENERGY TRANSITION: THE ROLE OF OIL & GAS IN A LOW-CARBON FUTURE </li>
-                                <li>PORT INFRASTRUCTURE DEVELOPMENT:EXPANSION & MODERNIZATION PROJECTS</li>
-                                <li>CREW WELL-BEING: PROMOTING CREW WELFARE & MENTAL HEALTH </li>
-                                <li>ALTERNATIVE SHIP FUELS – CURRENT STATUS & OUTLOOK</li>
-                                <li>CLASSSIFICATION SOCIETY – RULES, REGULATIONS & RECOMMENDATIONS </li>
-                                <li>MARITIME REGULATIONS & GOALS - TODAY / 2030</li>
-                                <li>SUBSEA ENGINEERING AND INNOVATIONS IN DEEPWATER OPERATIONS</li>
-                            </ul>
-                        </div>
-                        <div class="col-12 col-lg-6 col-md-6">
-                            <ul class="list-style-two">
-                                <li>MARINE AND OFFSHORE ENVIRONMENTAL MONITORING AND COMPLIANCE</li>
-                                <li>SUSTAINABLE ENERGY SOLUTIONS FOR THE OIL & GAS INDUSTRY</li>
-                                <li>ADVANCES IN OFFSHORE DRILLING TECHNIQUES AND EQUIPMENT</li>
-                                <li>FUTURE TRENDS IN SHIPBUILDING AND NAVAL ARCHITECTURE</li>
-                                <li>Maritime Safety and Risk Management: Lessons from Recent Incidents</li>
-                                <li>PORT AUTOMATION & OPTIMIZATION: ENHANCING EFFICIENCY & PERFORMANCE</li>
-                                <li>MARITIME LAW & REGULATIONS: NAVIGATING LEGAL CHALLENGES IN THE INDUSTRY</li>
-                                <li>SUSTAINABLE PRACTICES IN UPSTREAM, MIDSTREAM,DOWNSTREAM OPERATIONS</li>
-                                <li>LNG BUNKERING AND INFRASTRUCTURE FOR SUSTAINABLE MARINE TRANSPORTATION</li>
-                                <li>MARITIME TRAINING & WORKFORCE DEVELOPMENT: BRIDGING THE SKILLS GAP</li>
-                                <li>OFFSHORE WIND ENERGY: OPPORTUNITIES AND CHALLENGES</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Speakers Section -->
-
-<!-- SHIPTEK INTERNATIONAL AWARDS KSA - 2024  -->
-
-<!-- Fun Fact Section -->
-<!-- <section class="fun-fact-section style-two" style="background-image: url(images/background/9.jpg);"> -->
-<!-- <section class="fun-fact-section style-two" style="background-image: url(https://i.pinimg.com/originals/b5/c5/a6/b5c5a694b291a34c7f0fd5de2dd71a58.gif);"> -->
-<!-- <section class="fun-fact-section style-two" style="background-image: url(https://t4.ftcdn.net/jpg/05/28/90/43/360_F_528904357_wRur2TnRmUKXgRnbrSF8CYewb6aNgZ9S.jpg);"> -->
-<section class="fun-fact-section style-two " style="background-image: url(https://img.freepik.com/premium-vector/abstract-white-graphic-design-presentation-wide-background-web-banner-template_156943-1022.jpg); background-attachment: fixed;">
-    <div class="container">
-        <div class="row">
-            <div class="sec-title">
-                <!-- <span class="title">About The Event</span> -->
-                <h2 style="color: green;">SHIPTEK INTERNATIONAL AWARDS KSA - 2024</h2>
-            </div>
-            <div class="text pt-3 sec-title container">
-                <p class="text-justify lh-lg" ">
-                    ShipTek International Awards KSA - 2024 is back to celebrate the remarkable & noteworthy contributions of the
-                    Individuals/Organizations In the maritime/ Offshore/Oil&Gas/Port & Logistics sectors. A proud symbol of
-                    celebration & recognition, the award ceremony gained its popularity and credibility through its forerunners.
-                    The award ceremony shall be organized in concurrence with ShipTek International Conference. So don’t wait and miss
-                    out to place your nomination for the respective category and be a participant in the final race among other top organizations & individuals
-                </p>
-                <p class=" title">Become a part of this Grand Evening of Recognition where Excellence Matters..!! </p>
-                <div class="row mt-3">
-                    <div class="col-12 col-lg-6 col-md-6 ">
-                        <ul class="list-style-one">
-                            <li>Best HSE Initiatives.</li>
-                            <li>Sustainable Organization of the Year </li>
-                            <li>Best Employer of the Year </li>
-                            <li>Ship Repair Yard of the Year </li>
-                            <li>Best Training Institute </li>
-                            <li>Offshore Project of the Year </li>
-                            <li>Green Shipping Award </li>
-                            <li>Tanker Operator of the Year </li>
-                            <li>Ship Operator of the Year </li>
-                            <li>CSR Award of the Year </li>
-                            <li>Best Ship Agency of the Year </li>
-                            <li>Port of the Year </li>
-                            <li>Best Project - Innovation </li>
-                        </ul>
-                    </div>
-                    <div class="col-12 col-lg-6 col-md-6">
-                        <ul class="list-style-one">
-                            <li>Best Classification Society of the Year</li>
-                            <li>Ship Manager of the Year</li>
-                            <li>New Building Yard of the Year</li>
-                            <li>Rising Star – Organization</li>
-                            <li>Rising Star - Individual</li>
-                            <li>Law firm of the Year</li>
-                            <li>Young Women Achiever of the Year </li>
-                            <li>Offshore Industry Leader of the Year Award</li>
-                            <li>Best Service Provider - Marine</li>
-                            <li>Best Service Provider - Offshore</li>
-                            <li>Best Service Provider - Oil & Gas</li>
-                            <li>Best Maritime Association</li>
-                            <li>CEO of the Year</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="mt-3">
-                    <div>
-                        <p class="title mt-3">JURY AWARDS - </p>
-                    </div>
-                    <div class="row">
-                        <div class="col-12 col-lg-6 col-md-6">
-                            <ul class="list-style-one">
-                                <li>ShipTek – Women Personality of the Year</li>
-                                <li>ShipTek - Maritime Personality of the Year </li>
-                            </ul>
-                        </div>
-                        <div class="col-12 col-lg-6 col-md-6">
-                            <ul class="list-style-one">
-                                <li>ShipTek Life Time Achievement Award - Entrepreneur </li>
-                                <li>ShipTek Life Time Achievement Award - Services </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--End Fun Fact Section -->
-
-<!-- end SHIPTEK INTERNATIONAL AWARDS KSA - 2024  -->
-
-<!-- past sponsors corousel -->
-<div>
-    <section class="video-section" id="sponsors">
-        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="d-block w-100" src="our-images/sponsors/1.jpg" alt="First slide" />
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="our-images/sponsors/2.jpg" alt="Second slide" />
-                </div>
-                <!-- <div class="carousel-item">
-            <img class="d-block w-100" src="..." alt="Third slide">
-          </div> -->
-            </div>
-            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true" style="background-color: black"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true" style="background-color: black"></span>
-                <span class="sr-only">Next</span>
-            </a>
-        </div>
-        <!-- <div class="auto-container">
-        <div class="content-box">
-          <div class="text">WE’RE A LEADING INDUSTRY COMPANY</div>
-          <h2>
-            We Are Always at The <br />Forefront of The Business Conference !
-          </h2>
-          <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-now" data-fancybox="gallery"
-            data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span
-              class="ripple"></span></a>
-        </div>
-      </div> -->
-    </section>
-</div>
-
-<!-- end past sponsors corousel -->
-
-<!-- Schedule Section Style two -->
-<section class="schedule-section style-two">
-    <div class="auto-container">
-        <div class="sec-title text-center">
-            <span class="title">About Conference</span>
-            <h2>Schedule Plan</h2>
-        </div>
-
-        <div class="schedule-tabs style-two tabs-box">
-            <div class="btns-box">
-                <!--Tabs Box-->
-                <ul class="tab-buttons clearfix">
-                    <li class="tab-btn active-btn" data-tab="#tab-1">
-                        <span class="day">Day 01</span>
-                        <span class="date">04</span>
-                        <span class="month">June</span> 2024
-                    </li>
-
-                    <li class="tab-btn" data-tab="#tab-2">
-                        <span class="day">Day 02</span>
-                        <span class="date">05</span>
-                        <span class="month">June</span> 2024
-                    </li>
-                </ul>
-            </div>
-
-            <div class="tabs-content">
-
-                <!--Tab-->
-                <div class="tab active-tab" id="tab-1">
-                    <div class="schedule-timeline">
-                        <!-- schedule Block -->
-                        <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">9.00 AM - 05.00 PM</div>
-                                    <!-- <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div> -->
-                                    <h4><a href="Javascript: void(0)">CONFERENCE</a></h4>
-                                    <!-- <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div> -->
-                                    <!-- <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div> -->
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- schedule Block -->
-                        <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">10.00 AM - 11.00 AM</div>
-                                    <!-- <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div> -->
-                                    <h4><a href="Javascript: void(0)">Dummy Content</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <!-- <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div> -->
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- schedule Block -->
-                        <!-- <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">11.00 AM - 12.00 AM</div>
-                                    <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div>
-                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <!-- schedule Block -->
-                        <!-- <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">12.00 AM - 01.00 PM</div>
-                                    <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div>
-                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
-                    </div>
-                </div>
-
-                <!--Tab-->
-                <div class="tab" id="tab-2">
-                    <div class="schedule-timeline">
-                        <!-- schedule Block -->
-                        <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">9.00 AM - 10.00 AM</div>
-                                    <!-- <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div> -->
-                                    <h4><a href="Javascript: void(0)">CONFERENCE & AWARDS</a></h4>
-                                    <!-- <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div> -->
-                                    <!-- <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div> -->
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- schedule Block -->
-                        <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">10.00 AM - 11.00 AM</div>
-                                    <!-- <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div> -->
-                                    <h4><a href="Javascript: void(0)">Dummy content</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <!-- <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div> -->
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- schedule Block -->
-                        <!-- <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">11.00 AM - 12.00 AM</div>
-                                    <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div>
-                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <!-- schedule Block -->
-                        <!-- <div class="schedule-block">
-                            <div class="inner-box">
-                                <div class="inner">
-                                    <div class="date">12.00 AM - 01.00 PM</div>
-                                    <div class="speaker-info">
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                        <h5 class="name">Ashli Scroggy</h5>
-                                        <span class="designation">Founder & CEO</span>
-                                    </div>
-                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
-                                        <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--End schedule Section -->
-
-
-
-<!-- speakers Section -->
-<!-- <section class="event-info-section"> -->
 <!-- Speakers Section -->
 <section class="speakers-section speak" id="speakers" style="background-image: url(pics/gif/speakerSec.gif)">
     <div class="auto-container">
@@ -1470,8 +1085,389 @@
     </div>
 </section>
 <!-- End Speakers Section -->
-<!-- </section> -->
-<!--End speakers Section -->
+
+
+<section class="speakers-section-two">
+    <div class="anim-icons">
+        <span class="icon icon-circle-4 wow zoomIn"></span>
+        <!-- <span class="icon icon-circle-3 wow zoomIn"></span> -->
+    </div>
+
+    <div class="container">
+        <div class="auto-container ">
+            <!-- <div class="sec-title text-center">
+            <span class="title">Speakers</span>
+            <h2>Todays Performers</h2>
+        </div> -->
+
+            <div style="background-color: white;" class="row ">
+                <div class="sec-title">
+                    <!-- <span class="title">About The Event</span> -->
+                    <h2 style="color: green;">SHIPTEK INTERNATIONAL CONFERENCE KSA - TOPICS 2024</h2>
+                </div>
+                <div class="text sec-title">
+                    <p class="text-justify">The conference topics cover a range of subjects related to the Marine, Offshore, Oil & Gas Industry including Technological Advancements, Environmental Considerations, Safety, Sustainability, and various operations. The presentations will aim to address Current Challenges, Share Knowledge and discuss future opportunities in the sector. </p>
+                    <p class="title">PRESENTATION TOPICS WILL COVER -</p>
+                    <div class="row">
+                        <div class="col-12 col-lg-6 col-md-6">
+                            <ul class="list-style-two">
+                                <li>GREEN SHIPPING: DECARBONIZATION STRATEGIES AND TECHNOLOGIES</li>
+                                <li>DIGITALIZATION IN MARITIME OPERATIONS: FROM SMART PORTS TO BLOCKCHAIN</li>
+                                <li>ESG (ENVIRONMENTAL, SOCIAL, AND GOVERNANCE) IN OFFSHORE/ OIL & GAS</li>
+                                <li>MARINE ROBOTICS AND AUTONOMOUS SYSTEMS IN OFFSHORE APPLICATIONS</li>
+                                <li>ENERGY TRANSITION: THE ROLE OF OIL & GAS IN A LOW-CARBON FUTURE </li>
+                                <li>PORT INFRASTRUCTURE DEVELOPMENT:EXPANSION & MODERNIZATION PROJECTS</li>
+                                <li>CREW WELL-BEING: PROMOTING CREW WELFARE & MENTAL HEALTH </li>
+                                <li>ALTERNATIVE SHIP FUELS – CURRENT STATUS & OUTLOOK</li>
+                                <li>CLASSSIFICATION SOCIETY – RULES, REGULATIONS & RECOMMENDATIONS </li>
+                                <li>MARITIME REGULATIONS & GOALS - TODAY / 2030</li>
+                                <li>SUBSEA ENGINEERING AND INNOVATIONS IN DEEPWATER OPERATIONS</li>
+                            </ul>
+                        </div>
+                        <div class="col-12 col-lg-6 col-md-6">
+                            <ul class="list-style-two">
+                                <li>MARINE AND OFFSHORE ENVIRONMENTAL MONITORING AND COMPLIANCE</li>
+                                <li>SUSTAINABLE ENERGY SOLUTIONS FOR THE OIL & GAS INDUSTRY</li>
+                                <li>ADVANCES IN OFFSHORE DRILLING TECHNIQUES AND EQUIPMENT</li>
+                                <li>FUTURE TRENDS IN SHIPBUILDING AND NAVAL ARCHITECTURE</li>
+                                <li>Maritime Safety and Risk Management: Lessons from Recent Incidents</li>
+                                <li>PORT AUTOMATION & OPTIMIZATION: ENHANCING EFFICIENCY & PERFORMANCE</li>
+                                <li>MARITIME LAW & REGULATIONS: NAVIGATING LEGAL CHALLENGES IN THE INDUSTRY</li>
+                                <li>SUSTAINABLE PRACTICES IN UPSTREAM, MIDSTREAM,DOWNSTREAM OPERATIONS</li>
+                                <li>LNG BUNKERING AND INFRASTRUCTURE FOR SUSTAINABLE MARINE TRANSPORTATION</li>
+                                <li>MARITIME TRAINING & WORKFORCE DEVELOPMENT: BRIDGING THE SKILLS GAP</li>
+                                <li>OFFSHORE WIND ENERGY: OPPORTUNITIES AND CHALLENGES</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Speakers Section -->
+
+<!-- SHIPTEK INTERNATIONAL AWARDS KSA - 2024  -->
+
+<!-- Fun Fact Section -->
+<!-- <section class="fun-fact-section style-two" style="background-image: url(images/background/9.jpg);"> -->
+<!-- <section class="fun-fact-section style-two" style="background-image: url(https://i.pinimg.com/originals/b5/c5/a6/b5c5a694b291a34c7f0fd5de2dd71a58.gif);"> -->
+<!-- <section class="fun-fact-section style-two" style="background-image: url(https://t4.ftcdn.net/jpg/05/28/90/43/360_F_528904357_wRur2TnRmUKXgRnbrSF8CYewb6aNgZ9S.jpg);"> -->
+<section class="fun-fact-section style-two " style="background-image: url(https://img.freepik.com/premium-vector/abstract-white-graphic-design-presentation-wide-background-web-banner-template_156943-1022.jpg); background-attachment: fixed;">
+    <div class="container">
+        <div class="row">
+            <div class="sec-title">
+                <!-- <span class="title">About The Event</span> -->
+                <h2 style="color: green;">SHIPTEK INTERNATIONAL AWARDS KSA - 2024</h2>
+            </div>
+            <div class="text pt-3 sec-title container">
+                <p class="text-justify lh-lg" ">
+                    ShipTek International Awards KSA - 2024 is back to celebrate the remarkable & noteworthy contributions of the
+                    Individuals/Organizations In the maritime/ Offshore/Oil&Gas/Port & Logistics sectors. A proud symbol of
+                    celebration & recognition, the award ceremony gained its popularity and credibility through its forerunners.
+                    The award ceremony shall be organized in concurrence with ShipTek International Conference. So don’t wait and miss
+                    out to place your nomination for the respective category and be a participant in the final race among other top organizations & individuals
+                </p>
+                <p class=" title">Become a part of this Grand Evening of Recognition where Excellence Matters..!! </p>
+                <div class="row mt-3">
+                    <div class="col-12 col-lg-6 col-md-6 ">
+                        <ul class="list-style-one">
+                            <li>Best HSE Initiatives.</li>
+                            <li>Sustainable Organization of the Year </li>
+                            <li>Best Employer of the Year </li>
+                            <li>Ship Repair Yard of the Year </li>
+                            <li>Best Training Institute </li>
+                            <li>Offshore Project of the Year </li>
+                            <li>Green Shipping Award </li>
+                            <li>Tanker Operator of the Year </li>
+                            <li>Ship Operator of the Year </li>
+                            <li>CSR Award of the Year </li>
+                            <li>Best Ship Agency of the Year </li>
+                            <li>Port of the Year </li>
+                            <li>Best Project - Innovation </li>
+                        </ul>
+                    </div>
+                    <div class="col-12 col-lg-6 col-md-6">
+                        <ul class="list-style-one">
+                            <li>Best Classification Society of the Year</li>
+                            <li>Ship Manager of the Year</li>
+                            <li>New Building Yard of the Year</li>
+                            <li>Rising Star – Organization</li>
+                            <li>Rising Star - Individual</li>
+                            <li>Law firm of the Year</li>
+                            <li>Young Women Achiever of the Year </li>
+                            <li>Offshore Industry Leader of the Year Award</li>
+                            <li>Best Service Provider - Marine</li>
+                            <li>Best Service Provider - Offshore</li>
+                            <li>Best Service Provider - Oil & Gas</li>
+                            <li>Best Maritime Association</li>
+                            <li>CEO of the Year</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="mt-3">
+                    <div>
+                        <p class="title mt-3">JURY AWARDS - </p>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 col-lg-6 col-md-6">
+                            <ul class="list-style-one">
+                                <li>ShipTek – Women Personality of the Year</li>
+                                <li>ShipTek - Maritime Personality of the Year </li>
+                            </ul>
+                        </div>
+                        <div class="col-12 col-lg-6 col-md-6">
+                            <ul class="list-style-one">
+                                <li>ShipTek Life Time Achievement Award - Entrepreneur </li>
+                                <li>ShipTek Life Time Achievement Award - Services </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End Fun Fact Section -->
+
+<!-- end SHIPTEK INTERNATIONAL AWARDS KSA - 2024  -->
+
+<!-- Schedule Section Style two -->
+<section class="schedule-section style-two" id="agenda">
+    <div class="auto-container">
+        <div class="sec-title text-center">
+            <span class="title">About Conference</span>
+            <h2>Schedule Plan</h2>
+        </div>
+
+        <div class="schedule-tabs style-two tabs-box">
+            <div class="btns-box">
+                <!--Tabs Box-->
+                <ul class="tab-buttons clearfix">
+                    <li class="tab-btn active-btn" data-tab="#tab-1">
+                        <span class="day">Day 01</span>
+                        <span class="date">04</span>
+                        <span class="month">June</span> 2024
+                    </li>
+
+                    <li class="tab-btn" data-tab="#tab-2">
+                        <span class="day">Day 02</span>
+                        <span class="date">05</span>
+                        <span class="month">June</span> 2024
+                    </li>
+                </ul>
+            </div>
+
+            <div class="tabs-content">
+
+                <!--Tab-->
+                <div class="tab active-tab" id="tab-1">
+                    <div class="schedule-timeline">
+                        <!-- schedule Block -->
+                        <div class="schedule-block">
+                            <div class="inner-box">
+                                <div class="inner">
+                                    <div class="date">9.00 AM - 05.00 PM</div>
+                                    <!-- <div class="speaker-info">
+                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
+                                        <h5 class="name">Ashli Scroggy</h5>
+                                        <span class="designation">Founder & CEO</span>
+                                    </div> -->
+                                    <h4><a href="Javascript: void(0)">CONFERENCE</a></h4>
+                                    <!-- <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div> -->
+                                    <!-- <div class="btn-box">
+                                        <a href="event-detail.html" class="theme-btn">Read More</a>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- schedule Block -->
+                        <div class="schedule-block">
+                            <div class="inner-box">
+                                <div class="inner">
+                                    <div class="date">10.00 AM - 11.00 AM</div>
+                                    <!-- <div class="speaker-info">
+                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
+                                        <h5 class="name">Ashli Scroggy</h5>
+                                        <span class="designation">Founder & CEO</span>
+                                    </div> -->
+                                    <h4><a href="Javascript: void(0)">Dummy Content</a></h4>
+                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
+                                    <!-- <div class="btn-box">
+                                        <a href="event-detail.html" class="theme-btn">Read More</a>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- schedule Block -->
+                        <!-- <div class="schedule-block">
+                            <div class="inner-box">
+                                <div class="inner">
+                                    <div class="date">11.00 AM - 12.00 AM</div>
+                                    <div class="speaker-info">
+                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
+                                        <h5 class="name">Ashli Scroggy</h5>
+                                        <span class="designation">Founder & CEO</span>
+                                    </div>
+                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
+                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
+                                    <div class="btn-box">
+                                        <a href="event-detail.html" class="theme-btn">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+
+                        <!-- schedule Block -->
+                        <!-- <div class="schedule-block">
+                            <div class="inner-box">
+                                <div class="inner">
+                                    <div class="date">12.00 AM - 01.00 PM</div>
+                                    <div class="speaker-info">
+                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
+                                        <h5 class="name">Ashli Scroggy</h5>
+                                        <span class="designation">Founder & CEO</span>
+                                    </div>
+                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
+                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
+                                    <div class="btn-box">
+                                        <a href="event-detail.html" class="theme-btn">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+
+                <!--Tab-->
+                <div class="tab" id="tab-2">
+                    <div class="schedule-timeline">
+                        <!-- schedule Block -->
+                        <div class="schedule-block">
+                            <div class="inner-box">
+                                <div class="inner">
+                                    <div class="date">9.00 AM - 10.00 AM</div>
+                                    <!-- <div class="speaker-info">
+                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
+                                        <h5 class="name">Ashli Scroggy</h5>
+                                        <span class="designation">Founder & CEO</span>
+                                    </div> -->
+                                    <h4><a href="Javascript: void(0)">CONFERENCE & AWARDS</a></h4>
+                                    <!-- <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div> -->
+                                    <!-- <div class="btn-box">
+                                        <a href="event-detail.html" class="theme-btn">Read More</a>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- schedule Block -->
+                        <div class="schedule-block">
+                            <div class="inner-box">
+                                <div class="inner">
+                                    <div class="date">10.00 AM - 11.00 AM</div>
+                                    <!-- <div class="speaker-info">
+                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
+                                        <h5 class="name">Ashli Scroggy</h5>
+                                        <span class="designation">Founder & CEO</span>
+                                    </div> -->
+                                    <h4><a href="Javascript: void(0)">Dummy content</a></h4>
+                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
+                                    <!-- <div class="btn-box">
+                                        <a href="event-detail.html" class="theme-btn">Read More</a>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- schedule Block -->
+                        <!-- <div class="schedule-block">
+                            <div class="inner-box">
+                                <div class="inner">
+                                    <div class="date">11.00 AM - 12.00 AM</div>
+                                    <div class="speaker-info">
+                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
+                                        <h5 class="name">Ashli Scroggy</h5>
+                                        <span class="designation">Founder & CEO</span>
+                                    </div>
+                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
+                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
+                                    <div class="btn-box">
+                                        <a href="event-detail.html" class="theme-btn">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+
+                        <!-- schedule Block -->
+                        <!-- <div class="schedule-block">
+                            <div class="inner-box">
+                                <div class="inner">
+                                    <div class="date">12.00 AM - 01.00 PM</div>
+                                    <div class="speaker-info">
+                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
+                                        <h5 class="name">Ashli Scroggy</h5>
+                                        <span class="designation">Founder & CEO</span>
+                                    </div>
+                                    <h4><a href="event-detail.html">Modern Marketing Summit Sydney 2018</a></h4>
+                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
+                                    <div class="btn-box">
+                                        <a href="event-detail.html" class="theme-btn">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End schedule Section -->
+
+<!-- past sponsors corousel -->
+<div>
+    <section class="video-section" id="sponsors">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-100" src="our-images/sponsors/1.jpg" alt="First slide" />
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="our-images/sponsors/2.jpg" alt="Second slide" />
+                </div>
+                <!-- <div class="carousel-item">
+            <img class="d-block w-100" src="..." alt="Third slide">
+          </div> -->
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true" style="background-color: black"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true" style="background-color: black"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+        <!-- <div class="auto-container">
+        <div class="content-box">
+          <div class="text">WE’RE A LEADING INDUSTRY COMPANY</div>
+          <h2>
+            We Are Always at The <br />Forefront of The Business Conference !
+          </h2>
+          <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-now" data-fancybox="gallery"
+            data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span
+              class="ripple"></span></a>
+        </div>
+      </div> -->
+    </section>
+</div>
+
+<!-- end past sponsors corousel -->
+
+
 
 <!-- Testimonial Section -->
 <!-- <section class="testimonial-section">

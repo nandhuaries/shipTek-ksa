@@ -8,7 +8,7 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
-    
+
     <!--Color Switcher Mockup-->
     <link href="css/color-switcher-design.css" rel="stylesheet">
 
@@ -64,14 +64,59 @@
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
                                     <li class="current dropdown"><a href="index.php">Home</a></li>
-                                    <li class="dropdown"><a href="about-us.html">About</a>
+                                    <li class="dropdown"><a href="index#about">About Us</a>
                                     </li>
-                                    <li class="dropdown"><a href="speakers.html">Speakers</a>
+                                    <li class="dropdown"><a href="index#speakers">Speakers</a>
                                     </li>
-                                    <li class="dropdown"><a href="schedule.html">Schedule</a>
+                                    <li class="dropdown"><a href="index#sponsors">Sponsors</a>
                                     </li>
-                                    <li class="dropdown"><a href="blog-sidebar.html">Blog</a>
+                                    <li class="dropdown"><a href="index#agenda">Agenda</a>
                                     </li>
+                                    <li class="dropdown"><a href="https://www.shiptekmaritimeevents.com/gallery" target="_blank">Gallery</a>
+                                    </li>
+                                    <!-- form old -->
+                                    <li class="dropdown">
+                                        <a href="Javascript: void(0)">Previous Editions</a>
+                                        <ul>
+                                            <li>
+                                                <a href="https://www.shiptekmaritimeevents.com/shiptek-india/" target="_blank">ShipTek 2023 India</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.shiptekmaritimeevents.com/shiptek-singapore" target="_blank">ShipTek 2023 Singapore</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.shiptekmaritimeevents.com/shiptek-2023/" target="_blank">ShipTek 2023 Dubai</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.shiptekmaritimeevents.com/shiptek-greece" target="_blank">ShipTek 2022 Greece</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.shiptekmaritimeevents.com/shiptek-2022/" target="_blank">ShipTek 2022 Dubai</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.shiptek20.com/" target="_blank">ShipTek 2021</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.shiptek2019.com/shiptek-uaechapter.php" target="_blank">ShipTek 2019 UAE Chapter</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.shiptek2018.com/" target="_blank">ShipTek 2018</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.shiptek2017.com/" target="_blank">ShipTek 2017</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.shiptek2013.com/" target="_blank">ShipTek 2013</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.shiptek2011.com/" target="_blank">ShipTek 2011</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://shiptek2010.com/" target="_blank">ShipTek 2010</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <!-- end form old -->
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>
@@ -84,9 +129,9 @@
                             <!-- <div class="search-box-btn"><span class="flaticon-search"></span></div> -->
 
                             <!-- Button Box -->
-                            <div class="btn-box">
+                            <!-- <div class="btn-box">
                                 <a style="background-color: green;" href="contact.php" class="theme-btn btn-style-one"><span class="btn-title">Contact</span></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
