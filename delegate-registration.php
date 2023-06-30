@@ -1,5 +1,5 @@
 <?php include("header.php"); ?>
-<section class="page-title" style="background-image:url(our-images/banners/contact-banner.avif);">
+<section class="page-title shado" style="background-image:url(our-images/banners/contact-banner.avif);">
     <div class="auto-container">
         <h1>Delegate Registration</h1>
         <ul class="bread-crumb clearfix">
