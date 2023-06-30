@@ -63,16 +63,17 @@
 
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class="current dropdown"><a href="index.php">Home</a></li>
-                                    <li class="dropdown"><a href="index#about">About Us</a>
+                                    <!-- remove class dropdown from li to avoid dropdown arrow in responsive mode {dropdown} -->
+                                    <li class="current "><a href="index.php">Home</a></li>
+                                    <li class=""><a href="index#about">About Us</a>
                                     </li>
-                                    <li class="dropdown"><a href="index#speakers">Speakers</a>
+                                    <li class=""><a href="index#speakers">Speakers</a>
                                     </li>
-                                    <li class="dropdown"><a href="index#sponsors">Sponsors</a>
+                                    <li class=""><a href="index#sponsors">Sponsors</a>
                                     </li>
-                                    <li class="dropdown"><a href="index#agenda">Agenda</a>
+                                    <li class=""><a href="index#agenda">Agenda</a>
                                     </li>
-                                    <li class="dropdown"><a href="https://www.shiptekmaritimeevents.com/gallery" target="_blank">Gallery</a>
+                                    <li class=""><a href="https://www.shiptekmaritimeevents.com/gallery" target="_blank">Gallery</a>
                                     </li>
                                     <!-- form old -->
                                     <li class="dropdown">

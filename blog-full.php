@@ -1,10 +1,10 @@
 <?php include("header.php"); ?>
-<section class="page-title" style="background-image:url(our-images/banners/contact-banner.avif);">
+<section class="page-title shado" style="background-image:url(our-images/banners/contact-banner.avif);">
     <div class="auto-container">
-        <h1>Blogs And News</h1>
+        <h1>News And Blogs</h1>
         <ul class="bread-crumb clearfix">
             <li><a href="index">Home</a></li>
-            <li>Blogs And News</li>
+            <li>News And Blogs</li>
         </ul>
     </div>
 </section>

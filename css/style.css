@@ -865,7 +865,8 @@ img{
 
 .sec-title{
 	position:relative;
-	margin-bottom:25px;
+	/* margin-bottom:25px; */
+	margin-bottom:30px;
 }
 
 .sec-title .title{
@@ -6503,7 +6504,8 @@ img{
 
 .news-section{
 	position: relative;
-	padding: 110px 0 80px;
+	/* padding: 110px 0 80px; */
+	padding: 60px 0 80px;
 	overflow: hidden;
 }
 
@@ -8041,7 +8043,8 @@ img{
 
 .clients-section{
 	position: relative;
-	padding: 120px 0 90px;
+	/* padding: 120px 0 90px; */
+	padding: 60px 0 60px;
 }
 
 .clients-section:before{
