@@ -12,10 +12,10 @@
                  <li><a href="index#agenda">Agenda</a></li>
                  <li><a href="https://www.shiptekmaritimeevents.com/gallery" target="_blank">Gallery</a></li>
              </ul>
-             <!-- <div class="copyright-text">© Copyright 2024 All Rights Reserved Developed By <span style="color: red";>❤</span> <a href="index.html">Aries e-Solutions </a></div> -->
+             <!-- <div class="copyright-text">© Copyright 2024 All Rights Reserved Developed By <span style="color: red";>❤</span> <a href="https://www.ariesesolutions.com/">Aries e-Solutions </a></div> -->
              <div class="copyright-text">© Copyright <script>
                      document.write(new Date().getFullYear())
-                 </script> All Rights Reserved Developed By <span style="color: red" ;>❤</span> <a href="index.html">Aries e-Solutions </a></div>
+                 </script> All Rights Reserved Developed By <span style="color: red" ;>❤</span> <a href="https://www.ariesesolutions.com/" target="_blank">Aries e-Solutions </a></div>
              <ul class="social-icon-one">
                  <li><a href="https://www.facebook.com/ShiptekMaritimeEvents/" target="_blank"><span class="fab fa-facebook-f"></span></a></li>
                  <li><a href="https://www.linkedin.com/company/shiptek/" target="_blank"><span class="fab fa-linkedin-in"></span></a></li>

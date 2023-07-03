@@ -50,21 +50,21 @@
     </div>
 
     <div class="auto-container">
-        <div class="content-box">
+        <div class="content-box margTp">
             <span class="title text-white">4th - 5th June 2024</span>
             <ul class="info-list text-white">
                 <li style="font-size: 20px;"><span>
                         <img src="https://cdn-icons-png.flaticon.com/128/2991/2991231.png" style="height: 30px;" alt="">
                     </span> Saudi Arabia</li>
             </ul>
-            <h2 class="text-white">SHIPTEK<br>Conference 2024</h2>
+            <h2 class="text-white">SHIPTEK<br>CONFERENCE 2024</h2>
             <div class="time-counter">
                 <div class="time-countdown clearfix" data-countdown="6/4/2024"></div>
             </div>
             <div class="btn-box">
-                <a href="sponsorship-registration.php" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Sponsorship enquiry</span></a>
-                <a href="delegate.php" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Delegate Registration</span></a>
-                <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Nomination Registration</span></a>
+                <a href="sponsorship-registration" target="_blank" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Sponsorship Enquiry</span></a>
+                <a href="delegate-registration" target="_blank" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Delegate Registration</span></a>
+                <a href="ksa-nomination" style="background-color: green;" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Nomination Registration</span></a>
                 <!-- <a href="#" style="background-color: green;" class="theme-btn btn-style-two"><span class="btn-title">Media Registration</span></a> -->
                 <a href="exampleModal" style="background-color: green;" class="theme-btn btn-style-two" data-toggle="modal" data-target="#exampleModal"><span class="btn-title">Media Registration</span></a>
             </div>
@@ -132,11 +132,11 @@
 <!-- end fun facts  -->
 
 <!-- Speakers Section -->
-<section class="speakers-section speak" id="speakers" style="background-image: url(pics/gif/speakerSec.gif)">
+<section class="speakers-section speak" id="speakers" style="background-image: url(our-images/banners/speakersGif.gif)">
     <div class="auto-container">
         <div class="sec-title light text-center">
             <span class="title">ShipTek 2023</span>
-            <h2>Speakers</h2>
+            <h2>SPEAKERS</h2>
         </div>
 
         <div class="row">
@@ -1237,7 +1237,7 @@
     <div class="auto-container">
         <div class="sec-title text-center">
             <span class="title">About Conference</span>
-            <h2>Schedule Plan</h2>
+            <h2 style="color: green;">SCHEDULE PLAN</h2>
         </div>
 
         <div class="schedule-tabs style-two tabs-box">
@@ -1273,7 +1273,7 @@
                                         <h5 class="name">Ashli Scroggy</h5>
                                         <span class="designation">Founder & CEO</span>
                                     </div> -->
-                                    <h4><a href="Javascript: void(0)">CONFERENCE</a></h4>
+                                    <h4><a href="Javascript: void(0)" style="color: green;">CONFERENCE</a></h4>
                                     <!-- <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div> -->
                                     <!-- <div class="btn-box">
                                         <a href="event-detail.html" class="theme-btn">Read More</a>
@@ -1292,7 +1292,7 @@
                                         <h5 class="name">Ashli Scroggy</h5>
                                         <span class="designation">Founder & CEO</span>
                                     </div> -->
-                                    <h4><a href="Javascript: void(0)">Dummy Content</a></h4>
+                                    <h4><a href="Javascript: void(0)" style="color: green;">Dummy Content</a></h4>
                                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
                                     <!-- <div class="btn-box">
                                         <a href="event-detail.html" class="theme-btn">Read More</a>
@@ -1354,7 +1354,7 @@
                                         <h5 class="name">Ashli Scroggy</h5>
                                         <span class="designation">Founder & CEO</span>
                                     </div> -->
-                                    <h4><a href="Javascript: void(0)">CONFERENCE & AWARDS</a></h4>
+                                    <h4><a href="Javascript: void(0)" style="color: green;">CONFERENCE & AWARDS</a></h4>
                                     <!-- <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div> -->
                                     <!-- <div class="btn-box">
                                         <a href="event-detail.html" class="theme-btn">Read More</a>
@@ -1373,7 +1373,7 @@
                                         <h5 class="name">Ashli Scroggy</h5>
                                         <span class="designation">Founder & CEO</span>
                                     </div> -->
-                                    <h4><a href="Javascript: void(0)">Dummy content</a></h4>
+                                    <h4><a href="Javascript: void(0)" style="color: green;">Dummy content</a></h4>
                                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
                                     <!-- <div class="btn-box">
                                         <a href="event-detail.html" class="theme-btn">Read More</a>
@@ -1503,7 +1503,7 @@
 <section class="why-choose-us">
     <div class="sec-title container">
         <span class="title">JOIN THE EVENT</span>
-        <h2 style="color: green;">Why Attend ShipTek?</h2>
+        <h2 style="color: green;">WHY ATTEND SHIPTEK ?</h2>
         <!-- <h1>shdajhd</h1> -->
     </div>
     <div class="auto-container">
@@ -1598,7 +1598,7 @@
     <div class="auto-container">
         <div class="sec-title">
             <span class="title">ShipTek</span>
-            <h2 style="color: green;">Supporting Association</h2>
+            <h2 style="color: green;">SUPPORTING ASSOCIATION</h2>
         </div>
 
         <div class="sponsors-outer">
@@ -1717,7 +1717,7 @@
     <div class="auto-container">
         <div class="sec-title">
             <span class="title">ShipTek</span>
-            <h2 style="color: green;">Media Partners</h2>
+            <h2 style="color: green; text-transform: uppercase;">Media Partners</h2>
         </div>
         <!-- rearrange -->
         <div class="container">
@@ -1912,7 +1912,7 @@
     <div class="auto-container">
         <div class="sec-title ">
             <span class="title">ShipTek</span>
-            <h2 style="color: green;">Latest News And Blogs</h2>
+            <h2 style="color: green; text-transform: uppercase;">Latest News And Blogs</h2>
         </div>
 
         <div class="row justify-content-center">
@@ -2045,3 +2045,49 @@
 <!-- end modal -->
 
 <?php include("footer.php"); ?>
+<script type="text/javascript">
+  var validate = $("#media-reg").validate({
+    rules: {
+      name: "required",
+      location: "required",
+      website: "required",
+      information: "required",
+
+
+    },
+    messages: {
+      name: "Please enter name of media.",
+      location: "Please enter location.",
+      website: "Please enter your website.",
+      information: "Please enter your information.",
+
+    },
+    errorPlacement: function(error, element) {
+      if (element.attr("type") == "checkbox") {
+        error.insertAfter("#caterr");
+      } else {
+        error.insertAfter(element);
+      }
+
+    },
+
+
+    submitHandler: function() {
+      if (grecaptcha.getResponse() == "") {
+        alert("Are you a robot? Don't be shy, complete the reCaptcha! ?");
+        return false;
+      }
+      // call your function
+      $('#submit').hide();
+      $('#waitmsg').show();
+      return true;
+    }
+
+
+  });
+</script>
+<style>
+.error{
+color:red;	
+}
+</style>
