@@ -3,7 +3,7 @@
      <div class="auto-container">
          <!-- Footer Content -->
          <div class="footer-content">
-             <div class="footer-logo"><a href="Javascript: void(0)"><img src="our-images/logos/navLogo.png" alt=""></a></div>
+             <div class="footer-logo"><a href="#"><img src="our-images/logos/navLogo.png" alt=""></a></div>
              <ul class="footer-nav">
                  <li><a href="index">Home</a></li>
                  <li><a href="index#about">About Us</a></li>

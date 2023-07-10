@@ -132,7 +132,7 @@
 <!-- end fun facts  -->
 
 <!-- Speakers Section -->
-<section class="speakers-section speak" id="speakers" >
+<section class="speakers-section speak" id="speakers" style="background-image: url(our-images/banners/speakersGif.gif)">
     <div class="auto-container">
         <div class="sec-title light text-center">
             <span class="title">ShipTek 2023</span>
@@ -1130,7 +1130,7 @@
                                 <li>SUSTAINABLE ENERGY SOLUTIONS FOR THE OIL & GAS INDUSTRY</li>
                                 <li>ADVANCES IN OFFSHORE DRILLING TECHNIQUES AND EQUIPMENT</li>
                                 <li>FUTURE TRENDS IN SHIPBUILDING AND NAVAL ARCHITECTURE</li>
-                                <li>MARITIME SAFETY AND RISK MANAGEMENT: LESSONS FROM RECENT INCIDENTS</li>
+                                <li>Maritime Safety and Risk Management: Lessons from Recent Incidents</li>
                                 <li>PORT AUTOMATION & OPTIMIZATION: ENHANCING EFFICIENCY & PERFORMANCE</li>
                                 <li>MARITIME LAW & REGULATIONS: NAVIGATING LEGAL CHALLENGES IN THE INDUSTRY</li>
                                 <li>SUSTAINABLE PRACTICES IN UPSTREAM, MIDSTREAM,DOWNSTREAM OPERATIONS</li>
@@ -1968,7 +1968,7 @@
                 </div>
             </div>
             <div class="btn-box col-12 row justify-content-center">
-                <a style="background-color: green;" href="blog-full" class="theme-btn btn-style-one" target="_blank"><span class="btn-title">View More</span></a>
+                <a style="background-color: green;" href="blog-full.php" class="theme-btn btn-style-one"><span class="btn-title">View More</span></a>
             </div>
         </div>
     </div>
@@ -2059,7 +2059,7 @@
       name: "Please enter name of media.",
       location: "Please enter location.",
       website: "Please enter your website.",
-      information: "Please enter your contact information.",
+      information: "Please enter your information.",
 
     },
     errorPlacement: function(error, element) {

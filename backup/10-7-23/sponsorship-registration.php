@@ -1,8 +1,7 @@
 <?php include("header.php"); ?>
-<section class="page-title shado" style="background-image:url(our-images/banners/contact-banner.avif);">
+<section class="page-title" style="background-image:url(our-images/banners/contact-banner.avif);">
     <div class="auto-container">
-		<h1 style="font-size:35px">ShipTek International Conference & Awards KSA 2024</h1>
-        <h1 style="font-size:30px">Sponsorship Registration</h1>
+        <h1>Sponsorship Registration</h1>
         <ul class="bread-crumb clearfix">
             <li><a href="index">Home</a></li>
             <li>Sponsorship Registration</li>
@@ -15,14 +14,6 @@
         <h2 style="color: green;">Sponsorship Registration</h2>
     </div>
     <form action="sponsorship-action" id="registration" method="post">
-	<?php
-if(isset($_GET['status'])&&$_GET['status']==0){
- echo " <font color=red><b><center>Please click on the reCAPTCHA box</center></b></font>.";
- }
-if(isset($_GET['status'])&&$_GET['status']==1){
- echo " <font color=green><b><center>Your Sponsorship Enquiry has been Submitted Successfully</center></b></font>.";
-}
-?>
         <div class="row shadow-lg d-flex justify-content-center align-items-center" style="padding: 40px 10px;">
             <div class="col-12 col-lg-4 col-md-4 mb-4">
                 <!-- <label class="form-label" for="firstName">First Name</label> -->
@@ -52,11 +43,11 @@ if(isset($_GET['status'])&&$_GET['status']==1){
                         Select Sponsor Ship Category
                     </option>
                     <option value="Title Sponsor">Title Sponsor</option>
-                    <option value="Platinum Sponsor">
+                    <option value="Platinum Sponso">
                         Platinum Sponsor
                     </option>
                     <option value="Gold Sponsors">Gold Sponsors</option>
-                    <option value="Cocktail Sponsor">
+                    <option value="Cocktail Sponso">
                         Cocktail Sponsor
                     </option>
                     <option value="Silver Sponsors">
