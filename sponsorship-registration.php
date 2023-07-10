@@ -10,10 +10,10 @@
     </div>
 </section>
 <div class="container p-5">
-    <div class="sec-title">
+    <!-- <div class="sec-title">
         <span class="title">ShipTek</span>
         <h2 style="color: green;">Sponsorship Registration</h2>
-    </div>
+    </div> -->
     <form action="sponsorship-action" id="registration" method="post">
 	<?php
 if(isset($_GET['status'])&&$_GET['status']==0){

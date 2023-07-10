@@ -2,7 +2,7 @@
 <!-- Banner Conference -->
 <section class="banner-conference">
     <video autoplay muted loop plays-inline class="backgroundClip">
-        <source src="video/shiptek23-india.mp4" type="video/mp4">
+        <source src="video/new-video.mp4" type="video/mp4">
     </video>
     <!-- Icons -->
     <div class="icons parallax-scene-1">
@@ -88,8 +88,9 @@
                     <h2 style="color: green;">WHY SAUDI ARABIA ?</h2>
                 </div>
                 <div class="text p-5" style="background-color: white;">
-                    <p class="text-justify">Saudi Arabia possesses around 18 per cent of the world’s proven petroleum reserves and ranks as the world ‘second largest of crude reserves. It also has the fifth-largest proven natural gas reserves. Saudi Arabia is a Founder Member of OPEC with total resource valued at $ 34.4 trillion to become the third country after Russia and the US to have the most plentiful and valuable natural resources. Saudi Arabia ranks among the best G20 economies.
-                        Saudi Arabia embarked on amazing journey by introduced sweeping and impressive economic reforms aimed at moving the country away from its dependence on oil in 2016. As part of its ambitious vision 2030, the kingdom developed strategies to diversify non-oil revenues.
+                    <p class="text-justify">Saudi Arabia possesses around 18 per cent of the world’s proven petroleum reserves and ranks as the world ‘second largest of crude reserves. It also has the fifth-largest proven natural gas reserves. Saudi Arabia is a Founder Member of OPEC with
+                        total resource valued at $ 34.4 trillion to become the third country after Russia and the US to have the most plentiful and valuable natural resources. Saudi Arabia ranks among the best G20 economies.<br>
+                        Saudi Arabia embarked on amazing journey by introduced sweeping and impressive economic reforms aimed at moving the country away from its dependence on oil in 2016. As part of its ambitious vision 2030, the kingdom developed strategies to diversify non-oil revenues.<br>
                         The KSA Government implemented reforms that made starting a business easier by establishing a one-stop shop, introduced a secured transactions law, insolvency law Protecting Minority Investors and measures were taken to empower more women to join the workforce.
                     </p>
                 </div>
@@ -132,7 +133,7 @@
 <!-- end fun facts  -->
 
 <!-- Speakers Section -->
-<section class="speakers-section speak" id="speakers" >
+<section class="speakers-section speak" id="speakers">
     <div class="auto-container">
         <div class="sec-title light text-center">
             <span class="title">ShipTek 2023</span>
@@ -1283,23 +1284,23 @@
                         </div>
 
                         <!-- schedule Block -->
-                        <div class="schedule-block">
+                        <!-- <div class="schedule-block">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">10.00 AM - 11.00 AM</div>
-                                    <!-- <div class="speaker-info">
+                                    <div class="speaker-info">
                                         <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
                                         <h5 class="name">Ashli Scroggy</h5>
                                         <span class="designation">Founder & CEO</span>
-                                    </div> -->
+                                    </div>
                                     <h4><a href="Javascript: void(0)" style="color: green;">Dummy Content</a></h4>
                                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <!-- <div class="btn-box">
+                                    <div class="btn-box">
                                         <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div> -->
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- schedule Block -->
                         <!-- <div class="schedule-block">
@@ -1364,23 +1365,23 @@
                         </div>
 
                         <!-- schedule Block -->
-                        <div class="schedule-block">
+                        <!-- <div class="schedule-block">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">10.00 AM - 11.00 AM</div>
-                                    <!-- <div class="speaker-info">
+                                    <div class="speaker-info">
                                         <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
                                         <h5 class="name">Ashli Scroggy</h5>
                                         <span class="designation">Founder & CEO</span>
-                                    </div> -->
+                                    </div>
                                     <h4><a href="Javascript: void(0)" style="color: green;">Dummy content</a></h4>
                                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <!-- <div class="btn-box">
+                                    <div class="btn-box">
                                         <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div> -->
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- schedule Block -->
                         <!-- <div class="schedule-block">
@@ -1921,7 +1922,7 @@
             <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
                 <div class="inner-box h-100">
                     <div class="image-box">
-                        <figure class="image"><a href="blog-single.html"><img src="our-images/blog/shiptek22-news1.png" alt=""></a></figure>
+                        <figure class="image"><img src="our-images/blog/shiptek22-news1.png" alt=""></figure>
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
@@ -1938,7 +1939,7 @@
             <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="400ms">
                 <div class="inner-box h-100">
                     <div class="image-box">
-                        <figure class="image"><a href="blog-single.html"><img src="our-images/blog/shiptek22-news2.png" alt=""></a></figure>
+                        <figure class="image"><img src="our-images/blog/shiptek22-news2.png" alt=""></figure>
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
@@ -1955,7 +1956,7 @@
             <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="800ms">
                 <div class="inner-box h-100">
                     <div class="image-box">
-                        <figure class="image"><a href="blog-single.html"><img src="our-images/blog/shiptek22-news3.png" alt=""></a></figure>
+                        <figure class="image"><img src="our-images/blog/shiptek22-news3.png" alt=""></figure>
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
@@ -2046,48 +2047,48 @@
 
 <?php include("footer.php"); ?>
 <script type="text/javascript">
-  var validate = $("#media-reg").validate({
-    rules: {
-      name: "required",
-      location: "required",
-      website: "required",
-      information: "required",
+    var validate = $("#media-reg").validate({
+        rules: {
+            name: "required",
+            location: "required",
+            website: "required",
+            information: "required",
 
 
-    },
-    messages: {
-      name: "Please enter name of media.",
-      location: "Please enter location.",
-      website: "Please enter your website.",
-      information: "Please enter your contact information.",
+        },
+        messages: {
+            name: "Please enter name of media.",
+            location: "Please enter location.",
+            website: "Please enter your website.",
+            information: "Please enter your contact information.",
 
-    },
-    errorPlacement: function(error, element) {
-      if (element.attr("type") == "checkbox") {
-        error.insertAfter("#caterr");
-      } else {
-        error.insertAfter(element);
-      }
+        },
+        errorPlacement: function(error, element) {
+            if (element.attr("type") == "checkbox") {
+                error.insertAfter("#caterr");
+            } else {
+                error.insertAfter(element);
+            }
 
-    },
-
-
-    submitHandler: function() {
-      if (grecaptcha.getResponse() == "") {
-        alert("Are you a robot? Don't be shy, complete the reCaptcha! ?");
-        return false;
-      }
-      // call your function
-      $('#submit').hide();
-      $('#waitmsg').show();
-      return true;
-    }
+        },
 
 
-  });
+        submitHandler: function() {
+            if (grecaptcha.getResponse() == "") {
+                alert("Are you a robot? Don't be shy, complete the reCaptcha! ?");
+                return false;
+            }
+            // call your function
+            $('#submit').hide();
+            $('#waitmsg').show();
+            return true;
+        }
+
+
+    });
 </script>
 <style>
-.error{
-color:red;	
-}
+    .error {
+        color: red;
+    }
 </style>

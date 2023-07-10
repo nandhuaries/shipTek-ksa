@@ -94,14 +94,14 @@
             <!--<div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="800ms">
                 <div class="inner-box h-100">
                     <div class="image-box">
-                        <figure class="image"><a href="blog-single.html"><img src="our-images/blog/shiptek22-news5.png" alt=""></a></figure>
+                        <figure class="image"><img src="our-images/blog/shiptek22-news5.png" alt=""></figure>
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
                             <li><span class="far fa-"></span> 09th March, 2022</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                        <!-- </ul>
-                        <h4><a href="blog-single.html">Industry Veterans & Organizations honoured with the prestigious ShipTek International Awards 2022</a></h4>
+                        <h4>Industry Veterans & Organizations honoured with the prestigious ShipTek International Awards 2022</h4>
                         <div class="btn-box"><a href="https://www.synergymarinegroup.com/404" class="read-more">Read More</a></div>
                     </div>
                 </div>
