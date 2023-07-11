@@ -1,7 +1,7 @@
 <?php include("header.php"); ?>
 <section class="page-title shado" style="background-image:url(our-images/banners/contact-banner.avif);">
     <div class="auto-container">
-	<h1 style="font-size:35px">ShipTek International Conference & Awards KSA 2024</h1>
+        <h1 style="font-size:35px">ShipTek International Conference & Awards KSA 2024</h1>
         <h1 style="font-size:30px">News And Blogs</h1>
         <ul class="bread-crumb clearfix">
             <li><a href="index">Home</a></li>
@@ -23,6 +23,88 @@
         </div>
 
         <div class="row justify-content-center">
+            <!-- New Blogs -->
+            <!-- News Block Three -->
+            <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
+                <div class="inner-box h-100">
+                    <div class="image-box">
+                        <figure class="image"><img src="our-images/blog/1-new.PNG" alt=""></figure>
+                    </div>
+                    <div class="lower-content">
+                        <ul class="post-info">
+                            <li><span class="far fa-fa-"></span> 17th March, 2023</li>
+                            <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
+                        </ul>
+                        <h4><a href="javascript:void(0)">Cutting-Edge Maritime Technology Takes Center Stage at ShipTek International Conference 2023 – Dubai Edition</a></h4>
+                        <div class="btn-box"><a href="https://assafinaonline.com/news_details/en/15648/Cutting-Edge-Maritime-Technology-Takes-Center-Stage-at-ShipTek-International-Conference-2023-Dubai-Edition" target="_blank" class="read-more">Read More</a></div>
+                    </div>
+                </div>
+            </div>
+            <!-- News Block Three -->
+            <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="400ms">
+                <div class="inner-box h-100">
+                    <div class="image-box">
+                        <figure class="image"><img src="our-images/blog/2-new.PNG" alt=""></figure>
+                    </div>
+                    <div class="lower-content">
+                        <ul class="post-info">
+                            <li><span class="far fa-"></span> 22th March, 2023</li>
+                            <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
+                        </ul>
+                        <h4><a href="javascript:void(0)">UAE Ministry of Energy and Infrastructure wins “Excellence In Governance - Maritime” award at ShipTek Awards 2023</a></h4>
+                        <div class="btn-box"><a href="https://www.zawya.com/en/press-release/government-news/uae-ministry-of-energy-and-infrastructure-wins-excellence-in-governance-maritime-award-at-shiptek-awards-2023-irh34tpi" target="_blank" class="read-more">Read More</a></div>
+                    </div>
+                </div>
+            </div>
+            <!-- News Block Three -->
+            <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="800ms">
+                <div class="inner-box h-100">
+                    <div class="image-box">
+                        <figure class="image"><img src="our-images/blog/3.1-new.PNG" alt=""></figure>
+                    </div>
+                    <div class="lower-content">
+                        <ul class="post-info">
+                            <li><span class="far fa-"></span> 24th March, 2023</li>
+                            <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
+                        </ul>
+                        <h4><a href="javascript:void(0)">WINGD BAGS “DIGITAL SOLUTIONS PROVIDER OF THE YEAR” TITLE AT SHIPTEK INTERNATIONAL AWARDS 2023</a></h4>
+                        <div class="btn-box"><a href="https://www.wam.ae/en/details/1395303027757" target="_blank" class="read-more">Read More</a></div>
+                    </div>
+                </div>
+            </div>
+            <!-- News Block Three -->
+            <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="800ms">
+                <div class="inner-box h-100">
+                    <div class="image-box">
+                        <figure class="image"><img src="our-images/blog/4-new.PNG" alt=""></figure>
+                    </div>
+                    <div class="lower-content">
+                        <ul class="post-info">
+                            <li><span class="far fa-"></span> 22th March, 2023</li>
+                            <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
+                        </ul>
+                        <h4><a href="javascript:void(0)">Mawani wins Excellence in corporate Branding at ShipTek Awards 2023</a></h4>
+                        <div class="btn-box"><a href="https://indiashippingnews.com/mawani-wins-excellence-in-corporate-branding-at-shiptek-awards-2023/" target="_blank" class="read-more">Read More</a></div>
+                    </div>
+                </div>
+            </div>
+            <!-- News Block Three -->
+            <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="800ms">
+                <div class="inner-box h-100">
+                    <div class="image-box">
+                        <figure class="image"><img src="our-images/blog/5-new.PNG" alt=""></figure>
+                    </div>
+                    <div class="lower-content">
+                        <ul class="post-info">
+                            <li><span class="far fa-"></span>21th March, 2023</li>
+                            <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
+                        </ul>
+                        <h4><a href="javascript:void(0)">GAC wins ShipTek Best Shipping Agency Award</a></h4>
+                        <div class="btn-box"><a href="https://www.gac.com/corporate-news/gac-wins-shiptek-best-shipping-agency-award-2" target="_blank" class="read-more">Read More</a></div>
+                    </div>
+                </div>
+            </div>
+            <!-- End New Blogs -->
 
             <!-- News Block Three -->
             <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
@@ -91,7 +173,7 @@
                 </div>
             </div>
             <!-- News Block Three -->
-            <!--<div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="800ms">
+            <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="800ms">
                 <div class="inner-box h-100">
                     <div class="image-box">
                         <figure class="image"><img src="our-images/blog/shiptek22-news5.png" alt=""></figure>
@@ -99,13 +181,13 @@
                     <div class="lower-content">
                         <ul class="post-info">
                             <li><span class="far fa-"></span> 09th March, 2022</li>
-                            <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
-                       <!-- </ul>
+                            <li><span class="far fa-comments"></span> Comment 03</li>
+                        </ul>
                         <h4>Industry Veterans & Organizations honoured with the prestigious ShipTek International Awards 2022</h4>
-                        <div class="btn-box"><a href="https://www.synergymarinegroup.com/404" class="read-more">Read More</a></div>
+                        <div class="btn-box"><a href="https://www.synergymarinegroup.com/404" target="_blank" class="read-more">Read More</a></div>
                     </div>
                 </div>
-            </div>-->
+            </div>
             <!-- News Block Three -->
             <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="800ms">
                 <div class="inner-box h-100">
