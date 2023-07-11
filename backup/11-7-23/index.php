@@ -2,7 +2,7 @@
 <!-- Banner Conference -->
 <section class="banner-conference">
     <video autoplay muted loop plays-inline class="backgroundClip">
-        <source src="video/new-video.mp4" type="video/mp4">
+        <source src="video/shiptek23-india.mp4" type="video/mp4">
     </video>
     <!-- Icons -->
     <div class="icons parallax-scene-1">
@@ -87,10 +87,9 @@
                     <span class="title">About The Event</span>
                     <h2 style="color: green;">WHY SAUDI ARABIA ?</h2>
                 </div>
-                <div class="text p-2 p-lg-5 p-md-3" style="background-color: white;">
-                    <p class="text-justify">Saudi Arabia possesses around 18 per cent of the world’s proven petroleum reserves and ranks as the world ‘second largest of crude reserves. It also has the fifth-largest proven natural gas reserves. Saudi Arabia is a Founder Member of OPEC with
-                        total resource valued at $ 34.4 trillion to become the third country after Russia and the US to have the most plentiful and valuable natural resources. Saudi Arabia ranks among the best G20 economies.<br>
-                        Saudi Arabia embarked on amazing journey by introduced sweeping and impressive economic reforms aimed at moving the country away from its dependence on oil in 2016. As part of its ambitious vision 2030, the kingdom developed strategies to diversify non-oil revenues.<br>
+                <div class="text p-5" style="background-color: white;">
+                    <p class="text-justify">Saudi Arabia possesses around 18 per cent of the world’s proven petroleum reserves and ranks as the world ‘second largest of crude reserves. It also has the fifth-largest proven natural gas reserves. Saudi Arabia is a Founder Member of OPEC with total resource valued at $ 34.4 trillion to become the third country after Russia and the US to have the most plentiful and valuable natural resources. Saudi Arabia ranks among the best G20 economies.
+                        Saudi Arabia embarked on amazing journey by introduced sweeping and impressive economic reforms aimed at moving the country away from its dependence on oil in 2016. As part of its ambitious vision 2030, the kingdom developed strategies to diversify non-oil revenues.
                         The KSA Government implemented reforms that made starting a business easier by establishing a one-stop shop, introduced a secured transactions law, insolvency law Protecting Minority Investors and measures were taken to empower more women to join the workforce.
                     </p>
                 </div>
@@ -110,7 +109,7 @@
                     <span class="titlee" style="color: white;">SHIPTEK</span>
                     <h2 style="color: white;">ABOUT SHIPTEK KSA</h2>
                 </div>
-                <div class="text p-2 p-lg-5 p-md-3">
+                <div class="text p-5">
                     <p class="text-justify">
                         ShipTek International Conference & Awards KSA 2024 – MARINE/OFFSHORE/OIL&GAS will be a physical event aimed at key decision makers and high-level policymakers This two-day event will bring together industry leaders, organizations, suppliers and experts for networking and business tie-up opportunities.
                     </P>
@@ -133,7 +132,7 @@
 <!-- end fun facts  -->
 
 <!-- Speakers Section -->
-<section class="speakers-section speak" id="speakers">
+<section class="speakers-section speak" id="speakers" >
     <div class="auto-container">
         <div class="sec-title light text-center">
             <span class="title">ShipTek 2023</span>
@@ -1284,23 +1283,23 @@
                         </div>
 
                         <!-- schedule Block -->
-                        <!-- <div class="schedule-block">
+                        <div class="schedule-block">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">10.00 AM - 11.00 AM</div>
-                                    <div class="speaker-info">
+                                    <!-- <div class="speaker-info">
                                         <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
                                         <h5 class="name">Ashli Scroggy</h5>
                                         <span class="designation">Founder & CEO</span>
-                                    </div>
+                                    </div> -->
                                     <h4><a href="Javascript: void(0)" style="color: green;">Dummy Content</a></h4>
                                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
+                                    <!-- <div class="btn-box">
                                         <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
 
                         <!-- schedule Block -->
                         <!-- <div class="schedule-block">
@@ -1365,23 +1364,23 @@
                         </div>
 
                         <!-- schedule Block -->
-                        <!-- <div class="schedule-block">
+                        <div class="schedule-block">
                             <div class="inner-box">
                                 <div class="inner">
                                     <div class="date">10.00 AM - 11.00 AM</div>
-                                    <div class="speaker-info">
+                                    <!-- <div class="speaker-info">
                                         <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
                                         <h5 class="name">Ashli Scroggy</h5>
                                         <span class="designation">Founder & CEO</span>
-                                    </div>
+                                    </div> -->
                                     <h4><a href="Javascript: void(0)" style="color: green;">Dummy content</a></h4>
                                     <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et</div>
-                                    <div class="btn-box">
+                                    <!-- <div class="btn-box">
                                         <a href="event-detail.html" class="theme-btn">Read More</a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
 
                         <!-- schedule Block -->
                         <!-- <div class="schedule-block">
@@ -1922,15 +1921,15 @@
             <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
                 <div class="inner-box h-100">
                     <div class="image-box">
-                        <figure class="image"><img src="our-images/blog/1-new.PNG" alt=""></figure>
+                        <figure class="image"><a href="blog-single.html"><img src="our-images/blog/shiptek22-news1.png" alt=""></a></figure>
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
-                            <li><span class="far fa-fa-"></span> 17th March, 2023</li>
+                            <li><span class="far fa-fa-"></span> 09th March , 2022</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="javascript:void(0)">Cutting-Edge Maritime Technology Takes Center Stage at ShipTek International Conference 2023 – Dubai Edition</a></h4>
-                        <div class="btn-box"><a href="https://assafinaonline.com/news_details/en/15648/Cutting-Edge-Maritime-Technology-Takes-Center-Stage-at-ShipTek-International-Conference-2023-Dubai-Edition" target="_blank" class="read-more">Read More</a></div>
+                        <h4><a href="javascript:void(0)">Industry veterans and organisations honoured at the prestigious SHIPTEK INTERNATIONAL AWARDS 2022</a></h4>
+                        <div class="btn-box"><a href="https://www.marasinews.com/top-news/industry-veterans-and-organisations-honoured-prestigious-shiptek-international-awards-2022" class="read-more">Read More</a></div>
                     </div>
                 </div>
             </div>
@@ -1939,15 +1938,15 @@
             <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="400ms">
                 <div class="inner-box h-100">
                     <div class="image-box">
-                        <figure class="image"><img src="our-images/blog/2-new.PNG" alt=""></figure>
+                        <figure class="image"><a href="blog-single.html"><img src="our-images/blog/shiptek22-news2.png" alt=""></a></figure>
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
-                            <li><span class="far fa-"></span> 22th March, 2023</li>
+                            <li><span class="far fa-"></span> 09th March , 2022</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="javascript:void(0)">UAE Ministry of Energy and Infrastructure wins “Excellence In Governance - Maritime” award at ShipTek Awards 2023</a></h4>
-                        <div class="btn-box"><a href="https://www.zawya.com/en/press-release/government-news/uae-ministry-of-energy-and-infrastructure-wins-excellence-in-governance-maritime-award-at-shiptek-awards-2023-irh34tpi" target="_blank" class="read-more">Read More</a></div>
+                        <h4><a href="javascript:void(0)">Industry Veterans & Organizations honoured with the prestigious ShipTek International Awards 2022</a></h4>
+                        <div class="btn-box"><a href="https://www.hellenicshippingnews.com/industry-veterans-organizations-honoured-with-the-prestigious-shiptek-international-awards-2022/" class="read-more">Read More</a></div>
                     </div>
                 </div>
             </div>
@@ -1956,14 +1955,14 @@
             <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="800ms">
                 <div class="inner-box h-100">
                     <div class="image-box">
-                        <figure class="image"><img src="our-images/blog/3.1-new.PNG" alt=""></figure>
+                        <figure class="image"><a href="blog-single.html"><img src="our-images/blog/shiptek22-news3.png" alt=""></a></figure>
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
-                            <li><span class="far fa-"></span> 24th March, 2023</li>
+                            <li><span class="far fa-"></span> 08th March , 2022</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="javascript:void(0)">WINGD BAGS “DIGITAL SOLUTIONS PROVIDER OF THE YEAR” TITLE AT SHIPTEK INTERNATIONAL AWARDS 2023</a></h4>
+                        <h4><a href="javascript:void(0)">Ministry of Energy and Infrastructure wins award at ShipTek 2022</a></h4>
                         <div class="btn-box"><a href="https://www.wam.ae/en/details/1395303027757" class="read-more">Read More</a></div>
                     </div>
                 </div>
@@ -2047,48 +2046,48 @@
 
 <?php include("footer.php"); ?>
 <script type="text/javascript">
-    var validate = $("#media-reg").validate({
-        rules: {
-            name: "required",
-            location: "required",
-            website: "required",
-            information: "required",
+  var validate = $("#media-reg").validate({
+    rules: {
+      name: "required",
+      location: "required",
+      website: "required",
+      information: "required",
 
 
-        },
-        messages: {
-            name: "Please enter name of media.",
-            location: "Please enter location.",
-            website: "Please enter your website.",
-            information: "Please enter your contact information.",
+    },
+    messages: {
+      name: "Please enter name of media.",
+      location: "Please enter location.",
+      website: "Please enter your website.",
+      information: "Please enter your contact information.",
 
-        },
-        errorPlacement: function(error, element) {
-            if (element.attr("type") == "checkbox") {
-                error.insertAfter("#caterr");
-            } else {
-                error.insertAfter(element);
-            }
+    },
+    errorPlacement: function(error, element) {
+      if (element.attr("type") == "checkbox") {
+        error.insertAfter("#caterr");
+      } else {
+        error.insertAfter(element);
+      }
 
-        },
-
-
-        submitHandler: function() {
-            if (grecaptcha.getResponse() == "") {
-                alert("Are you a robot? Don't be shy, complete the reCaptcha! ?");
-                return false;
-            }
-            // call your function
-            $('#submit').hide();
-            $('#waitmsg').show();
-            return true;
-        }
+    },
 
 
-    });
+    submitHandler: function() {
+      if (grecaptcha.getResponse() == "") {
+        alert("Are you a robot? Don't be shy, complete the reCaptcha! ?");
+        return false;
+      }
+      // call your function
+      $('#submit').hide();
+      $('#waitmsg').show();
+      return true;
+    }
+
+
+  });
 </script>
 <style>
-    .error {
-        color: red;
-    }
+.error{
+color:red;	
+}
 </style>
