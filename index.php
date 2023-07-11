@@ -87,7 +87,7 @@
                     <span class="title">About The Event</span>
                     <h2 style="color: green;">WHY SAUDI ARABIA ?</h2>
                 </div>
-                <div class="text p-5" style="background-color: white;">
+                <div class="text p-2 p-lg-5 p-md-3" style="background-color: white;">
                     <p class="text-justify">Saudi Arabia possesses around 18 per cent of the world’s proven petroleum reserves and ranks as the world ‘second largest of crude reserves. It also has the fifth-largest proven natural gas reserves. Saudi Arabia is a Founder Member of OPEC with
                         total resource valued at $ 34.4 trillion to become the third country after Russia and the US to have the most plentiful and valuable natural resources. Saudi Arabia ranks among the best G20 economies.<br>
                         Saudi Arabia embarked on amazing journey by introduced sweeping and impressive economic reforms aimed at moving the country away from its dependence on oil in 2016. As part of its ambitious vision 2030, the kingdom developed strategies to diversify non-oil revenues.<br>
@@ -110,7 +110,7 @@
                     <span class="titlee" style="color: white;">SHIPTEK</span>
                     <h2 style="color: white;">ABOUT SHIPTEK KSA</h2>
                 </div>
-                <div class="text p-5">
+                <div class="text p-2 p-lg-5 p-md-3">
                     <p class="text-justify">
                         ShipTek International Conference & Awards KSA 2024 – MARINE/OFFSHORE/OIL&GAS will be a physical event aimed at key decision makers and high-level policymakers This two-day event will bring together industry leaders, organizations, suppliers and experts for networking and business tie-up opportunities.
                     </P>
