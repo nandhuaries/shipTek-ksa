@@ -35,7 +35,7 @@
                             <li><span class="far fa-fa-"></span> 17th March, 2023</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="https://assafinaonline.com/news_details/en/15648/Cutting-Edge-Maritime-Technology-Takes-Center-Stage-at-ShipTek-International-Conference-2023-Dubai-Edition" target="_blank">Cutting-Edge Maritime Technology Takes Center Stage at ShipTek International Conference 2023 – Dubai Edition</a></h4>
+                        <h4><a href="javascript:void(0)">Cutting-Edge Maritime Technology Takes Center Stage at ShipTek International Conference 2023 – Dubai Edition</a></h4>
                         <div class="btn-box"><a href="https://assafinaonline.com/news_details/en/15648/Cutting-Edge-Maritime-Technology-Takes-Center-Stage-at-ShipTek-International-Conference-2023-Dubai-Edition" target="_blank" class="read-more">Read More</a></div>
                     </div>
                 </div>
@@ -48,10 +48,10 @@
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
-                            <li><span class="far fa-"></span> 22nd March, 2023</li>
+                            <li><span class="far fa-"></span> 22th March, 2023</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="https://www.zawya.com/en/press-release/government-news/uae-ministry-of-energy-and-infrastructure-wins-excellence-in-governance-maritime-award-at-shiptek-awards-2023-irh34tpi" target="_blank">UAE Ministry of Energy and Infrastructure wins “Excellence In Governance - Maritime” award at ShipTek Awards 2023</a></h4>
+                        <h4><a href="javascript:void(0)">UAE Ministry of Energy and Infrastructure wins “Excellence In Governance - Maritime” award at ShipTek Awards 2023</a></h4>
                         <div class="btn-box"><a href="https://www.zawya.com/en/press-release/government-news/uae-ministry-of-energy-and-infrastructure-wins-excellence-in-governance-maritime-award-at-shiptek-awards-2023-irh34tpi" target="_blank" class="read-more">Read More</a></div>
                     </div>
                 </div>
@@ -67,7 +67,7 @@
                             <li><span class="far fa-"></span> 24th March, 2023</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="https://www.wam.ae/en/details/1395303027757" target="_blank">WINGD BAGS “DIGITAL SOLUTIONS PROVIDER OF THE YEAR” TITLE AT SHIPTEK INTERNATIONAL AWARDS 2023</a></h4>
+                        <h4><a href="javascript:void(0)">WINGD BAGS “DIGITAL SOLUTIONS PROVIDER OF THE YEAR” TITLE AT SHIPTEK INTERNATIONAL AWARDS 2023</a></h4>
                         <div class="btn-box"><a href="https://www.wam.ae/en/details/1395303027757" target="_blank" class="read-more">Read More</a></div>
                     </div>
                 </div>
@@ -80,10 +80,10 @@
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
-                            <li><span class="far fa-"></span> 22nd March, 2023</li>
+                            <li><span class="far fa-"></span> 22th March, 2023</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="https://indiashippingnews.com/mawani-wins-excellence-in-corporate-branding-at-shiptek-awards-2023/" target="_blank">Mawani wins Excellence in corporate Branding at ShipTek Awards 2023</a></h4>
+                        <h4><a href="javascript:void(0)">Mawani wins Excellence in corporate Branding at ShipTek Awards 2023</a></h4>
                         <div class="btn-box"><a href="https://indiashippingnews.com/mawani-wins-excellence-in-corporate-branding-at-shiptek-awards-2023/" target="_blank" class="read-more">Read More</a></div>
                     </div>
                 </div>
@@ -99,7 +99,7 @@
                             <li><span class="far fa-"></span>21th March, 2023</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="https://www.gac.com/corporate-news/gac-wins-shiptek-best-shipping-agency-award-2" target="_blank">GAC wins ShipTek Best Shipping Agency Award</a></h4>
+                        <h4><a href="javascript:void(0)">GAC wins ShipTek Best Shipping Agency Award</a></h4>
                         <div class="btn-box"><a href="https://www.gac.com/corporate-news/gac-wins-shiptek-best-shipping-agency-award-2" target="_blank" class="read-more">Read More</a></div>
                     </div>
                 </div>
@@ -183,7 +183,7 @@
                             <li><span class="far fa-"></span> 09th March, 2022</li>
                             <li><span class="far fa-comments"></span> Comment 03</li>
                         </ul>
-                        <h4><a href="https://www.synergymarinegroup.com/404" target="_blank">Industry Veterans & Organizations honoured with the prestigious ShipTek International Awards 2022</a></h4>
+                        <h4>Industry Veterans & Organizations honoured with the prestigious ShipTek International Awards 2022</h4>
                         <div class="btn-box"><a href="https://www.synergymarinegroup.com/404" target="_blank" class="read-more">Read More</a></div>
                     </div>
                 </div>

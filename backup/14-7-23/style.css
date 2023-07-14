@@ -892,8 +892,7 @@ img{
 .sec-title h2{
 	position:relative;
 	display: inline-block;
-	/* font-size:48px; */
-	font-size:30px;
+	font-size:48px;
 	line-height:1.2em;
 	color:#1e1f36;
 	font-weight:700;
@@ -6599,8 +6598,7 @@ img{
 .news-block h4{
 	position: relative;
 	display: block;
-	/* font-size: 22px; */
-	font-size: 18px;
+	font-size: 22px;
 	line-height: 1.4em;
 	color: #222222;
 	font-weight: 500;

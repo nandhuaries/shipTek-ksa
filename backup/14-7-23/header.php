@@ -1,5 +1,5 @@
 <?php
-$pagename = basename($_SERVER['PHP_SELF']);
+$pagename=basename($_SERVER['PHP_SELF']);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,10 +21,10 @@ $pagename = basename($_SERVER['PHP_SELF']);
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <meta property="og:image" content="https://shiptekmaritimeevents.com/shiptek-ksa-2024/pics/logos/shipeve.png" />
-    <meta property="og:image:type" content="image/png" />
-    <meta property="og:image:width" content="350" />
-    <meta property="og:image:height" content="58" />
+	<meta property="og:image" content="https://shiptekmaritimeevents.com/shiptek-ksa-2024/pics/logos/shipeve.png"/>
+<meta property="og:image:type" content="image/png"/>
+<meta property="og:image:width" content="350"/>
+<meta property="og:image:height" content="58"/>
     <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
     <!-- ND styles -->
@@ -32,45 +32,35 @@ $pagename = basename($_SERVER['PHP_SELF']);
     <link rel="stylesheet" href="css/video.css">
     <link rel="stylesheet" href="css/style-nd.css">
     <!-- End ND styles -->
-
-    <?php if ($pagename == "index.php") { ?>
-        <title>ShipTek 2024 - KSA</title>
-        <meta property="og:title" content="ShipTek 2024 - KSA" />
-        <meta property="og:url" content="http://shiptekmaritimeevents.com/shiptek-ksa-2024/">
-
-
-    <?php }
-    if ($pagename == "blog-full.php") { ?>
-        <title>Blog | ShipTek 2024 - KSA</title>
-        <meta property="og:title" content="Blog | ShipTek 2024 - KSA" />
-        <meta property="og:url" content="http://shiptekmaritimeevents.com/shiptek-ksa-2024/blog-full">
-
-    <?php }
-    if ($pagename == "delegate-registration.php") { ?>
-        <title>Delegate Registration | ShipTek 2024 - KSA</title>
-        <meta property="og:title" content="Delegate Registration | ShipTek 2024 - KSA" />
-        <meta property="og:url" content="http://shiptekmaritimeevents.com/shiptek-ksa-2024/delegate-registration">
-    <?php }
-    if ($pagename == "ksa-nomination.php") { ?>
-        <title>Nomination Registration | ShipTek 2024 - KSA</title>
-        <meta property="og:title" content="Nomination Registration | ShipTek 2024 - KSA" />
-        <meta property="og:url" content="https://www.shiptekmaritimeevents.com/shiptek-ksa-2024/ksa-nomination">
-    <?php }
-    if ($pagename == "sponsorship-registration.php") { ?>
-        <title>Sponsorship Enquiry | ShipTek 2024 - KSA</title>
-        <meta property="og:title" content="Sponsorship Enquiry | ShipTek 2024 - KSA" />
-        <meta property="og:url" content="https://www.shiptekmaritimeevents.com/shiptek-ksa-2024/sponsorship-registration">
+	
+	<?php  if($pagename=="index.php") { ?> 
+    <title>ShipTek 2024 - KSA</title>
+    <meta property="og:title" content="ShipTek 2024 - KSA" />
+  <meta property="og:url" content="http://shiptekmaritimeevents.com/shiptek-ksa-2024/">
 
 
-    <?php }
-    if ($pagename == "contact.php") { ?>
-        <title>Contact | ShipTek 2024 - KSA</title>
-        <meta property="og:title" content="Contact | ShipTek 2024 - KSA" />
-        <meta property="og:url" content="https://www.shiptekmaritimeevents.com/shiptek-ksa-2024/contact">
+<?php } if($pagename=="blog-full.php") { ?> 
+    <title>Blog | ShipTek 2024 - KSA</title>
+    <meta property="og:title" content="Blog | ShipTek 2024 - KSA" />
+    <meta property="og:url" 
+    content="http://shiptekmaritimeevents.com/shiptek-ksa-2024/blog-full">
+
+<?php } if($pagename=="delegate-registration.php") { ?> 
+    <title>Delegate Registration | ShipTek 2024 - KSA</title>
+    <meta property="og:title" content="Delegate Registration | ShipTek 2024 - KSA" />
+    <meta property="og:url" 
+    content="http://shiptekmaritimeevents.com/shiptek-ksa-2024/delegate-registration">
+<?php } if($pagename=="ksa-nomination.php") { ?> 
+    <title>Nomination Registration | ShipTek 2024 - KSA</title>
+    <meta property="og:title" content="Nomination Registration | ShipTek 2024 - KSA" />
+    <meta property="og:url" content="https://www.shiptekmaritimeevents.com/shiptek-ksa-2024/ksa-nomination">
+  <?php } if($pagename=="sponsorship-registration.php") { ?> 
+    <title>Sponsorship Enquiry | ShipTek 2024 - KSA</title>
+    <meta property="og:title" content="Sponsorship Enquiry | ShipTek 2024 - KSA" />
+    <meta property="og:url" content="https://www.shiptekmaritimeevents.com/shiptek-ksa-2024/sponsorship-registration">
 
 
     <?php } ?>
-
 
 </head>
 
@@ -90,8 +80,7 @@ $pagename = basename($_SERVER['PHP_SELF']);
             <div class="main-box">
                 <div class="auto-container clearfix">
                     <div class="logo-box">
-                        <!-- <div class="logo"><a href="index"><img src="our-images/logos/navLogo.png" alt="" title=""></a></div> -->
-                        <div class="logo"><a href="index"><img src="our-images/logos/shipTek-24.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index"><img src="our-images/logos/navLogo.png" alt="" title=""></a></div>
                     </div>
 
                     <!--Nav Box-->
@@ -191,8 +180,7 @@ $pagename = basename($_SERVER['PHP_SELF']);
 
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
                 <nav class="menu-box">
-                    <!-- <div class="nav-logo"><a href="index"><img src="our-images/logos/navLogo.png" alt="" title=""></a></div> -->
-                    <div class="nav-logo"><a href="index"><img src="our-images/logos/shipTek-24.png" alt="" title=""></a></div>
+                    <div class="nav-logo"><a href="index"><img src="our-images/logos/navLogo.png" alt="" title=""></a></div>
 
                     <ul class="navigation clearfix"><!--Keep This Empty / Menu will come through Javascript--></ul>
                 </nav>

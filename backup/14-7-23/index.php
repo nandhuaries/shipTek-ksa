@@ -1608,7 +1608,7 @@
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box h-100">
-                        <a href="Javascript: void(0)"><img src="pics/supportingAssociations/clean-shipping-logo.jpg" alt="" /></a>
+                        <a href="Javascript: void(0)"><img src="pics/supportingAssociations/clean-shipping-logo.png" alt="" /></a>
                     </figure>
                 </div>
 
@@ -1647,7 +1647,7 @@
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box h-100">
-                        <a href="https://www.dubaisaa.ae/" target="_blank"><img src="pics/supportingAssociations/dsaa1.png" alt="" /></a>
+                        <a href="https://www.dubaisaa.ae/" target="_blank"><img src="pics/supportingAssociations/dsaa1.jpg" alt="" /></a>
                     </figure>
                 </div>
 
@@ -1687,20 +1687,20 @@
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box h-100">
-                        <a href="https://www.internationalfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/internationalFreight.jpg" alt="" /></a>
+                        <a href="https://www.internationalfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/internationalFreight.png" alt="" /></a>
                     </figure>
                 </div>
 
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box h-100">
-                        <a href="https://www.specialistfreightnetworks.com/default.aspx" target="_blank"><img src="pics/supportingAssociations/specialist.jpg" alt="" /></a>
+                        <a href="https://www.specialistfreightnetworks.com/default.aspx" target="_blank"><img src="pics/supportingAssociations/specialist.png" alt="" /></a>
                     </figure>
                 </div>
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box">
-                        <a href="https://www.worldfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/worldFrieghtNet.jpg" alt="" /></a>
+                        <a href="https://www.worldfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/worldFrieghtNet.png" alt="" /></a>
                     </figure>
                 </div>
             </div>
@@ -1786,21 +1786,21 @@
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box">
-                        <a href="https://www.energycioinsights.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/cio-engry.png" alt="" /></a>
+                        <a href="https://www.energycioinsights.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/cio-engry.jpg" alt="" /></a>
                     </figure>
                 </div>
 
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box">
-                        <a href="http://www.coalspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/coal-spot.png" alt="" /></a>
+                        <a href="http://www.coalspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/coal-spot.jpg" alt="" /></a>
                     </figure>
                 </div>
 
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box">
-                        <a href="https://exporooms.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/expo-rooms.png" alt="" /></a>
+                        <a href="https://exporooms.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/expo-rooms.jpg" alt="" /></a>
                     </figure>
                 </div>
                 <!-- Client Block -->
@@ -1818,19 +1818,19 @@
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box">
-                        <a href="https://www.worldoils.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/worldils.jpg" alt="" /></a>
+                        <a href="https://www.worldoils.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/worldils.png" alt="" /></a>
                     </figure>
                 </div>
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box">
-                        <a href="https://www.financialnigeria.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/financial.png" alt="" /></a>
+                        <a href="https://www.financialnigeria.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/financial.jpg" alt="" /></a>
                     </figure>
                 </div>
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box">
-                        <a href="https://www.greenjournal.co.uk/" target="_blank"><img src="pics/MEDIA-PARTNERS/green-journal.png" alt="" /></a>
+                        <a href="https://www.greenjournal.co.uk/" target="_blank"><img src="pics/MEDIA-PARTNERS/green-journal.jpg" alt="" /></a>
                     </figure>
                 </div>
                 <!-- Client Block -->
@@ -1860,13 +1860,13 @@
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box">
-                        <a href="https://www.ufofreight.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/ufo.jpg" alt="" /></a>
+                        <a href="https://www.ufofreight.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/ufo.png" alt="" /></a>
                     </figure>
                 </div>
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box">
-                        <a href="https://www.projectcargonetwork.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/projectCargo.jpg" alt="" /></a>
+                        <a href="https://www.projectcargonetwork.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/projectCargo.png" alt="" /></a>
                     </figure>
                 </div>
                 <!-- Client Block -->
@@ -1884,7 +1884,7 @@
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box">
-                        <a href="https://www.energydais.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/energy.png" alt="" /></a>
+                        <a href="https://www.energydais.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/energy.jpg" alt="" /></a>
                     </figure>
                 </div>
                 <!-- Client Block -->
@@ -1896,7 +1896,7 @@
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box">
-                        <a href="https://www.bunkerspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/bunker.png" alt="" /></a>
+                        <a href="https://www.bunkerspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/bunker.jpg" alt="" /></a>
                     </figure>
                 </div>
             </div>
@@ -1929,7 +1929,7 @@
                             <li><span class="far fa-fa-"></span> 17th March, 2023</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="https://assafinaonline.com/news_details/en/15648/Cutting-Edge-Maritime-Technology-Takes-Center-Stage-at-ShipTek-International-Conference-2023-Dubai-Edition" target="_blank" class="read-more">Cutting-Edge Maritime Technology Takes Center Stage at ShipTek International Conference 2023 – Dubai Edition</a></h4>
+                        <h4><a href="javascript:void(0)">Cutting-Edge Maritime Technology Takes Center Stage at ShipTek International Conference 2023 – Dubai Edition</a></h4>
                         <div class="btn-box"><a href="https://assafinaonline.com/news_details/en/15648/Cutting-Edge-Maritime-Technology-Takes-Center-Stage-at-ShipTek-International-Conference-2023-Dubai-Edition" target="_blank" class="read-more">Read More</a></div>
                     </div>
                 </div>
@@ -1943,10 +1943,10 @@
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
-                            <li><span class="far fa-"></span> 22nd March, 2023</li>
+                            <li><span class="far fa-"></span> 22th March, 2023</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="https://www.zawya.com/en/press-release/government-news/uae-ministry-of-energy-and-infrastructure-wins-excellence-in-governance-maritime-award-at-shiptek-awards-2023-irh34tpi" target="_blank">UAE Ministry of Energy and Infrastructure wins “Excellence In Governance - Maritime” award at ShipTek Awards 2023</a></h4>
+                        <h4><a href="javascript:void(0)">UAE Ministry of Energy and Infrastructure wins “Excellence In Governance - Maritime” award at ShipTek Awards 2023</a></h4>
                         <div class="btn-box"><a href="https://www.zawya.com/en/press-release/government-news/uae-ministry-of-energy-and-infrastructure-wins-excellence-in-governance-maritime-award-at-shiptek-awards-2023-irh34tpi" target="_blank" class="read-more">Read More</a></div>
                     </div>
                 </div>
@@ -1963,8 +1963,8 @@
                             <li><span class="far fa-"></span> 24th March, 2023</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
-                        <h4><a href="https://www.wam.ae/en/details/1395303027757" target="_blank">WINGD BAGS “DIGITAL SOLUTIONS PROVIDER OF THE YEAR” TITLE AT SHIPTEK INTERNATIONAL AWARDS 2023</a></h4>
-                        <div class="btn-box"><a href="https://www.wam.ae/en/details/1395303027757" target="_blank" class="read-more">Read More</a></div>
+                        <h4><a href="javascript:void(0)">WINGD BAGS “DIGITAL SOLUTIONS PROVIDER OF THE YEAR” TITLE AT SHIPTEK INTERNATIONAL AWARDS 2023</a></h4>
+                        <div class="btn-box"><a href="https://www.wam.ae/en/details/1395303027757" class="read-more">Read More</a></div>
                     </div>
                 </div>
             </div>
