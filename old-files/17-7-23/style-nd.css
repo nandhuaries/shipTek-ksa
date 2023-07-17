@@ -1,0 +1,26 @@
+.lis li{
+    color: green;
+}
+.subm{
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+    transition: 1s;
+    width: 100%;
+    height: 50px;
+    font-size: 17px;
+}
+.subm:hover{
+    background-color: white;
+    color: green;
+}
+.shado:before{
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	background-color: #000000;
+	opacity: .70;
+	content: "";
+}

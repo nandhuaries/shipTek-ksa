@@ -96,7 +96,7 @@
                     </div>
                     <div class="lower-content">
                         <ul class="post-info">
-                            <li><span class="far fa-"></span>21st March, 2023</li>
+                            <li><span class="far fa-"></span>21th March, 2023</li>
                             <!-- <li><span class="far fa-comments"></span> Comment 03</li> -->
                         </ul>
                         <h4><a href="https://www.gac.com/corporate-news/gac-wins-shiptek-best-shipping-agency-award-2" target="_blank">GAC wins ShipTek Best Shipping Agency Award</a></h4>

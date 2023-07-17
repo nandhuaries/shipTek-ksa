@@ -57,7 +57,7 @@
                         <img src="https://cdn-icons-png.flaticon.com/128/2991/2991231.png" style="height: 30px;" alt="">
                     </span> Saudi Arabia</li>
             </ul>
-            <h2 class="text-white">ShipTek International Conference & Awards KSA 2024</h2>
+            <h2 class="text-white">SHIPTEK<br>CONFERENCE 2024</h2>
             <div class="time-counter">
                 <div class="time-countdown clearfix" data-countdown="6/4/2024"></div>
             </div>
